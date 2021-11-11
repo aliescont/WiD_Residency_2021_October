@@ -1,0 +1,782 @@
+Area Type,Area Name,Period,SOC Level,Standard Occupational Classification (SOC),Occupational Title,Base Quarter Employment Estimate,Projected Quarter Employment Estimate,Numeric Change,Percentage Change,Exits,Transfers,Total Job Openings,Median Hourly Wage,Median Annual Wage,Entry Level Education,Work Experience,Job Training
+State,California,2020-2022,1,00-0000,"Total, All Occupations",16710800,18589800,1879000,11.2,1512350,2480210,5871560,21.78,45310.00,N/A,N/A,N/A
+State,California,2020-2022,2,11-0000,Management Occupations,1203000,1324900,121900,10.1,66340,144200,332440,59.75,124283.00,N/A,N/A,N/A
+State,California,2020-2022,3,11-1000,Top Executives,274900,301500,26600,9.7,12560,36180,75340,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,11-1011,Chief Executives,38600,40500,1900,4.9,2110,3510,7520,0.00,0.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-1021,General and Operations Managers,233300,258000,24700,10.6,10300,32360,67360,55.44,115303.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-1031,Legislators,3000,3000,0,0.0,150,310,460,0.00,55468.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,3,11-2000,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",122900,137200,14300,11.6,5320,17740,37360,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,11-2011,Advertising and Promotions Managers,2800,3100,300,10.7,120,440,860,65.67,136602.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,11-2021,Marketing Managers,39100,43000,3900,10.0,1670,5620,11190,77.48,161160.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-2022,Sales Managers,72600,82100,9500,13.1,3150,10580,23230,59.35,123448.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,11-2031,Public Relations and Fundraising Managers,8400,9000,600,7.1,380,1110,2090,0.00,0.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,3,11-3000,Operations Specialties Managers,257200,280600,23400,9.1,11570,30940,65910,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,11-3011,Administrative Services Managers,37000,39700,2700,7.3,2110,4280,9090,0.00,0.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,11-3021,Computer and Information Systems Managers,67900,74500,6600,9.7,2440,8670,17710,84.77,176320.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-3031,Financial Managers,81800,90200,8400,10.3,3720,9540,21660,68.36,142172.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-3051,Industrial Production Managers,18800,19800,1000,5.3,830,1980,3810,54.99,114377.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-3061,Purchasing Managers,7600,8100,500,6.6,380,930,1810,65.95,137193.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-3071,"Transportation, Storage, and Distribution Managers",18700,20500,1800,9.6,850,2240,4890,47.15,98076.00,High school diploma or equivalent,≥5 years,None
+State,California,2020-2022,4,11-3121,Human Resources Managers,19100,20800,1700,8.9,910,2470,5080,66.13,137539.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-3131,Training and Development Managers,4300,4600,300,7.0,220,580,1100,64.02,133171.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,3,11-9000,Other Management Occupations,548000,605600,57600,10.5,36900,59350,153850,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,11-9013,"Farmers, Ranchers, and Other Agricultural Managers",81600,93000,11400,14.0,10850,6490,28740,41.65,86622.00,High school diploma or equivalent,≥5 years,None
+State,California,2020-2022,4,11-9021,Construction Managers,52900,58700,5800,11.0,2340,5680,13820,54.78,113918.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,11-9031,"Education Administrators, Preschool and Childcare Center/Program",6700,7400,700,10.4,360,730,1790,25.23,52485.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,11-9032,"Education Administrators, Elementary and Secondary School",22800,23600,800,3.5,1200,2400,4400,0.00,129761.00,Master's degree,≥5 years,None
+State,California,2020-2022,4,11-9033,"Education Administrators, Postsecondary",16100,16600,500,3.1,840,1690,3030,59.54,123835.00,Master's degree,<5 years,None
+State,California,2020-2022,4,11-9039,"Education Administrators, All Other",7900,8300,400,5.1,420,840,1660,48.22,100296.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,11-9041,Architectural and Engineering Managers,31800,33600,1800,5.7,1140,3580,6520,82.78,172196.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-9051,Food Service Managers,40000,52200,12200,30.5,2810,7760,22770,27.22,56628.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,11-9061,Funeral Service Managers,1300,1400,100,7.7,70,140,310,0.00,0.00,Associate's degree,<5 years,None
+State,California,2020-2022,4,11-9081,Lodging Managers,3400,4700,1300,38.2,260,580,2140,31.35,65211.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,11-9111,Medical and Health Services Managers,36600,40600,4000,10.9,1890,4220,10110,60.15,125108.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,11-9121,Natural Sciences Managers,8200,8800,600,7.3,360,1150,2110,81.51,169539.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,11-9141,"Property, Real Estate, and Community Association Managers",61900,66300,4400,7.1,4770,5100,14270,30.19,62778.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,11-9199,"Managers, All Other",144100,155400,11300,7.8,7580,15110,33990,0.00,0.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,2,13-0000,Business and Financial Operations Occupations,1070900,1160400,89500,8.4,61150,149900,300550,36.95,76848.00,N/A,N/A,N/A
+State,California,2020-2022,3,13-1000,Business Operations Specialists,720700,782700,62000,8.6,41630,105180,208810,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",5600,6200,600,10.7,390,980,1970,42.08,87529.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,13-1020,Buyers and Purchasing Agents,47000,49900,2900,6.2,3050,7050,13000,33.89,70495.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-1031,"Claims Adjusters, Examiners, and Investigators",33800,34800,1000,3.0,1650,4150,6800,37.17,77307.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,13-1032,"Insurance Appraisers, Auto Damage",3000,3000,0,0.0,150,370,520,32.25,67095.00,Postsecondary non-degree award,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-1041,Compliance Officers,39500,41500,2000,5.1,2260,4840,9100,39.45,82071.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-1051,Cost Estimators,27200,29900,2700,9.9,1450,4200,8350,35.09,72990.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-1071,Human Resources Specialists,63000,69900,6900,11.0,3550,9780,20230,34.13,70994.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-1075,Labor Relations Specialists,7000,7800,800,11.4,400,1090,2290,37.73,78488.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,13-1081,Logisticians,20500,22200,1700,8.3,1000,3070,5770,40.09,83395.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-1111,Management Analysts,130500,141000,10500,8.0,8430,17150,36080,41.02,85329.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,13-1121,"Meeting, Convention, and Event Planners",15700,17800,2100,13.4,1070,2740,5910,27.19,56557.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-1131,Fundraisers,8800,9400,600,6.8,600,1290,2490,29.90,62187.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-1141,"Compensation, Benefits, and Job Analysis Specialists",10300,11000,700,6.8,700,1320,2720,35.76,74364.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,13-1151,Training and Development Specialists,28500,31200,2700,9.5,1780,4630,9110,34.62,72002.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,13-1161,Market Research Analysts and Marketing Specialists,100300,113600,13300,13.3,5030,16830,35160,34.57,71900.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-1199,"Business Operations Specialists, All Other",179400,192800,13400,7.5,10110,25620,49130,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,3,13-2000,Financial Specialists,350200,377700,27500,7.9,19520,44720,91740,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,13-2011,Accountants and Auditors,155800,171700,15900,10.2,9240,21280,46420,37.14,77256.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-2021,Appraisers and Assessors of Real Estate,6500,6700,200,3.1,450,530,1180,0.00,0.00,Bachelor's degree,None,Long-term on-the-job training
+State,California,2020-2022,4,13-2031,Budget Analysts,7100,7400,300,4.2,360,770,1430,41.92,87182.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-2041,Credit Analysts,8600,8800,200,2.3,380,1180,1760,39.64,82438.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-2051,Financial Analysts,40200,43200,3000,7.5,1600,5470,10070,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,13-2052,Personal Financial Advisors,34400,36400,2000,5.8,1610,3740,7350,40.96,85197.00,Bachelor's degree,None,Long-term on-the-job training
+State,California,2020-2022,4,13-2053,Insurance Underwriters,9200,9200,0,0.0,430,1100,1530,36.99,76940.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-2061,Financial Examiners,5100,5400,300,5.9,220,570,1090,48.17,100194.00,Bachelor's degree,None,Long-term on-the-job training
+State,California,2020-2022,4,13-2071,Credit Counselors,4500,4700,200,4.4,220,560,980,24.68,51344.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-2072,Loan Officers,37200,39100,1900,5.1,1830,4550,8280,30.17,62757.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-2081,"Tax Examiners and Collectors, and Revenue Agents",9300,9400,100,1.1,740,830,1670,31.48,65486.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-2082,Tax Preparers,11900,13800,1900,16.0,1270,1660,4830,26.19,54460.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,13-2099,"Financial Specialists, All Other",20500,21800,1300,6.3,1180,2480,4960,0.00,0.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,2,15-0000,Computer and Mathematical Occupations,665400,728500,63100,9.5,22320,78970,164390,52.47,109142.00,N/A,N/A,N/A
+State,California,2020-2022,3,15-1100,Computer Occupations,645700,706300,60600,9.4,21450,76950,159000,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,15-1111,Computer and Information Research Scientists,8000,8600,600,7.5,240,1040,1880,0.00,0.00,Master's degree,None,None
+State,California,2020-2022,4,15-1121,Computer Systems Analysts,74000,79800,5800,7.8,2930,8180,16910,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,15-1122,Information Security Analysts,8000,8700,700,8.8,240,950,1890,0.00,0.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,15-1131,Computer Programmers,33000,36200,3200,9.7,1110,3740,8050,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,15-1132,"Software Developers, Applications",164300,182600,18300,11.1,4820,19610,42730,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,15-1133,"Software Developers, Systems Software",94900,102500,7600,8.0,2740,11160,21500,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,15-1134,Web Developers,24700,27600,2900,11.7,900,3080,6880,0.00,0.00,Associate's degree,None,None
+State,California,2020-2022,4,15-1141,Database Administrators,11300,12200,900,8.0,450,1210,2560,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,15-1142,Network and Computer Systems Administrators,37400,40400,3000,8.0,1310,4120,8430,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,15-1143,Computer Network Architects,17400,18900,1500,8.6,480,2040,4020,0.00,0.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,15-1151,Computer User Support Specialists,74300,81500,7200,9.7,2860,9910,19970,0.00,0.00,"Some college, no degree",None,None
+State,California,2020-2022,4,15-1152,Computer Network Support Specialists,17700,19000,1300,7.3,680,2340,4320,0.00,0.00,Associate's degree,None,None
+State,California,2020-2022,4,15-1199,"Computer Occupations, All Other",80700,88400,7700,9.5,2710,9560,19970,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,3,15-2000,Mathematical Science Occupations,19800,22200,2400,12.1,870,2020,5290,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,15-2011,Actuaries,1400,1600,200,14.3,30,150,380,54.84,114076.00,Bachelor's degree,None,Long-term on-the-job training
+State,California,2020-2022,4,15-2031,Operations Research Analysts,11500,12900,1400,12.2,570,1010,2980,46.77,97293.00,Bachelor's degree,None,None
+State,California,2020-2022,4,15-2041,Statisticians,6100,7000,900,14.8,240,770,1910,52.72,109663.00,Master's degree,None,None
+State,California,2020-2022,2,17-0000,Architecture and Engineering Occupations,349600,368600,19000,5.4,17000,38900,74900,47.52,98835.00,N/A,N/A,N/A
+State,California,2020-2022,3,17-1000,"Architects, Surveyors, and Cartographers",25700,27100,1400,5.4,1280,2730,5410,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,17-1011,"Architects, Except Landscape and Naval",17100,18100,1000,5.8,840,1860,3700,43.99,91501.00,Bachelor's degree,None,Internship/residency
+State,California,2020-2022,4,17-1012,Landscape Architects,3000,3100,100,3.3,140,320,560,43.12,89673.00,Bachelor's degree,None,Internship/residency
+State,California,2020-2022,4,17-1021,Cartographers and Photogrammetrists,1000,1100,100,10.0,60,100,260,44.35,92257.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-1022,Surveyors,4600,4800,200,4.3,240,450,890,45.65,94944.00,Bachelor's degree,None,Internship/residency
+State,California,2020-2022,3,17-2000,Engineers,237900,251100,13200,5.5,9930,24320,47450,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,17-2011,Aerospace Engineers,12100,12800,700,5.8,530,1070,2300,60.51,125853.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2031,Biomedical Engineers,3700,3900,200,5.4,160,380,740,50.15,104331.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2041,Chemical Engineers,2200,2400,200,9.1,100,190,490,49.90,103800.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2051,Civil Engineers,47400,49700,2300,4.9,1980,5580,9860,52.81,109836.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2061,Computer Hardware Engineers,22400,23700,1300,5.8,890,2430,4620,66.94,139224.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2071,Electrical Engineers,27300,28800,1500,5.5,1130,2570,5200,55.71,115883.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2072,"Electronics Engineers, Except Computer",30000,31000,1000,3.3,1230,2800,5030,61.74,128417.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2081,Environmental Engineers,9000,9600,600,6.7,500,900,2000,50.14,104290.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",2400,2500,100,4.2,100,230,430,57.04,118641.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2112,Industrial Engineers,25400,27100,1700,6.7,1060,2520,5280,49.56,103085.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2131,Materials Engineers,2600,2800,200,7.7,110,230,540,50.50,105046.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2141,Mechanical Engineers,27200,28800,1600,5.9,1050,2740,5390,50.10,104219.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2171,Petroleum Engineers,2200,2100,-100,-4.5,70,240,210,65.55,136343.00,Bachelor's degree,None,None
+State,California,2020-2022,4,17-2199,"Engineers, All Other",22300,23800,1500,6.7,950,2240,4690,54.51,113401.00,Bachelor's degree,None,None
+State,California,2020-2022,3,17-3000,"Drafters, Engineering Technicians, and Mapping Technicians",86000,90400,4400,5.1,5800,11840,22040,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,17-3011,Architectural and Civil Drafters,13600,14300,700,5.1,930,1950,3580,30.43,63289.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3012,Electrical and Electronics Drafters,3500,3700,200,5.7,240,510,950,34.10,70919.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3013,Mechanical Drafters,4400,4600,200,4.5,300,630,1130,30.68,63830.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3019,"Drafters, All Other",1500,1600,100,6.7,100,220,420,27.88,57977.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3021,Aerospace Engineering and Operations Technicians,2700,2900,200,7.4,190,360,750,32.52,67640.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3022,Civil Engineering Technicians,7900,8200,300,3.8,530,1030,1860,32.38,67354.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3023,Electrical and Electronics Engineering Technicians,23200,24200,1000,4.3,1570,3050,5620,33.35,69377.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3024,Electro-Mechanical Technicians,2500,2600,100,4.0,170,330,600,29.08,60480.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3025,Environmental Engineering Technicians,3300,3600,300,9.1,230,440,970,27.52,57242.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3026,Industrial Engineering Technicians,4000,4200,200,5.0,270,520,990,30.34,63095.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3027,Mechanical Engineering Technicians,3500,3800,300,8.6,240,470,1010,32.18,66925.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3029,"Engineering Technicians, Except Drafters, All Other",11500,12200,700,6.1,790,1530,3020,0.00,0.00,Associate's degree,None,None
+State,California,2020-2022,4,17-3031,Surveying and Mapping Technicians,4500,4700,200,4.4,260,820,1280,33.23,69101.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,2,19-0000,"Life, Physical, and Social Science Occupations",197300,210400,13100,6.6,7830,31450,52380,40.87,85005.00,N/A,N/A,N/A
+State,California,2020-2022,3,19-1000,Life Scientists,64000,68700,4700,7.3,2030,10260,16990,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,19-1012,Food Scientists and Technologists,2500,2700,200,8.0,110,480,790,35.34,73504.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-1013,Soil and Plant Scientists,2800,3000,200,7.1,120,530,850,34.78,72339.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-1021,Biochemists and Biophysicists,5800,6400,600,10.3,190,930,1720,46.80,97354.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,19-1022,Microbiologists,5000,5400,400,8.0,160,790,1350,54.59,113544.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-1023,Zoologists and Wildlife Biologists,2500,2700,200,8.0,80,400,680,35.15,73115.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-1029,"Biological Scientists, All Other",12200,13200,1000,8.2,390,1930,3320,44.55,92656.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-1031,Conservation Scientists,2200,2300,100,4.5,90,370,560,38.89,80878.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-1042,"Medical Scientists, Except Epidemiologists",28000,29900,1900,6.8,810,4350,7060,53.21,110664.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,19-1099,"Life Scientists, All Other",1800,1900,100,5.6,50,270,420,40.04,83279.00,Bachelor's degree,None,None
+State,California,2020-2022,3,19-2000,Physical Scientists,37300,39700,2400,6.4,1340,6170,9910,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,19-2012,Physicists,3700,4000,300,8.1,140,480,920,54.91,114219.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,19-2031,Chemists,10600,11200,600,5.7,350,1610,2560,38.90,80909.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-2032,Materials Scientists,1100,1200,100,9.1,40,160,300,54.66,113677.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-2041,"Environmental Scientists and Specialists, Including Health",13200,13900,700,5.3,500,2430,3630,42.90,89234.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-2042,"Geoscientists, Except Hydrologists and Geographers",4400,4700,300,6.8,170,810,1280,45.24,94106.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-2099,"Physical Scientists, All Other",2600,2700,100,3.8,70,390,560,61.60,128141.00,Bachelor's degree,None,None
+State,California,2020-2022,3,19-3000,Social Scientists and Related Workers,46500,49300,2800,6.0,2200,5800,10800,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,19-3011,Economists,1600,1700,100,6.3,50,200,350,53.53,111358.00,Master's degree,None,None
+State,California,2020-2022,4,19-3031,"Clinical, Counseling, and School Psychologists",24300,25900,1600,6.6,1120,2400,5120,50.44,104923.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,19-3039,"Psychologists, All Other",2800,2900,100,3.6,130,270,500,56.89,118345.00,Master's degree,None,Internship/residency
+State,California,2020-2022,4,19-3041,Sociologists,1200,1300,100,8.3,80,210,390,48.09,100020.00,Master's degree,None,None
+State,California,2020-2022,4,19-3051,Urban and Regional Planners,7900,8200,300,3.8,260,1230,1790,44.87,93340.00,Master's degree,None,None
+State,California,2020-2022,4,19-3091,Anthropologists and Archeologists,1500,1700,200,13.3,100,270,570,32.78,68182.00,Master's degree,None,None
+State,California,2020-2022,4,19-3099,"Social Scientists and Related Workers, All Other",5800,6100,300,5.2,370,990,1660,40.93,85128.00,Bachelor's degree,None,None
+State,California,2020-2022,3,19-4000,"Life, Physical, and Social Science Technicians",49400,52700,3300,6.7,2260,9210,14770,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,19-4011,Agricultural and Food Science Technicians,4200,4600,400,9.5,190,880,1470,0.00,0.00,Associate's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,19-4021,Biological Technicians,12100,13000,900,7.4,370,2260,3530,25.52,53075.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-4031,Chemical Technicians,6400,6800,400,6.3,250,1070,1720,23.17,48182.00,Associate's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,19-4041,Geological and Petroleum Technicians,1700,1800,100,5.9,40,310,450,0.00,0.00,Associate's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,19-4061,Social Science Research Assistants,2700,2900,200,7.4,150,510,860,24.44,50838.00,Bachelor's degree,None,None
+State,California,2020-2022,4,19-4091,"Environmental Science and Protection Technicians, Including Health",5300,5600,300,5.7,300,990,1590,0.00,0.00,Associate's degree,None,None
+State,California,2020-2022,4,19-4092,Forensic Science Technicians,2000,2100,100,5.0,110,380,590,40.31,83830.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,19-4093,Forest and Conservation Technicians,7500,7700,200,2.7,410,1390,2000,0.00,0.00,Associate's degree,None,None
+State,California,2020-2022,4,19-4099,"Life, Physical, and Social Science Technicians, All Other",7200,8000,800,11.1,420,1390,2610,27.78,57783.00,Associate's degree,None,None
+State,California,2020-2022,2,21-0000,Community and Social Service Occupations,305800,323000,17200,5.6,21500,44690,83390,25.67,53391.00,N/A,N/A,N/A
+State,California,2020-2022,3,21-1000,"Counselors, Social Workers, and Other Community and Social Service Specialists",279500,296600,17100,6.1,19000,41060,77160,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,21-1012,"Educational, Guidance, School, and Vocational Counselors",35300,36700,1400,4.0,2330,5030,8760,36.19,75271.00,Master's degree,None,None
+State,California,2020-2022,4,21-1013,Marriage and Family Therapists,23600,26300,2700,11.4,1620,3490,7810,22.81,47446.00,Master's degree,None,Internship/residency
+State,California,2020-2022,4,21-1015,Rehabilitation Counselors,14600,15700,1100,7.5,980,2120,4200,15.24,31706.00,Master's degree,None,None
+State,California,2020-2022,4,21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",33900,36600,2700,8.0,2280,4930,9910,23.78,49459.00,Bachelor's degree,None,None
+State,California,2020-2022,4,21-1019,"Counselors, All Other",4700,5000,300,6.4,320,680,1300,22.85,47538.00,Master's degree,None,None
+State,California,2020-2022,4,21-1021,"Child, Family, and School Social Workers",31300,32700,1400,4.5,1890,4360,7650,27.18,56537.00,Bachelor's degree,None,None
+State,California,2020-2022,4,21-1022,Healthcare Social Workers,19400,20800,1400,7.2,1190,2730,5320,37.14,77252.00,Master's degree,None,Internship/residency
+State,California,2020-2022,4,21-1023,Mental Health and Substance Abuse Social Workers,15100,16000,900,6.0,920,2110,3930,28.63,59551.00,Master's degree,None,Internship/residency
+State,California,2020-2022,4,21-1029,"Social Workers, All Other",10600,10900,300,2.8,630,1460,2390,34.45,71675.00,Bachelor's degree,None,None
+State,California,2020-2022,4,21-1091,Health Educators,7800,8200,400,5.1,600,1210,2210,28.01,58253.00,Bachelor's degree,None,None
+State,California,2020-2022,4,21-1092,Probation Officers and Correctional Treatment Specialists,13300,13500,200,1.5,590,1680,2470,44.88,93360.00,Bachelor's degree,None,Short-term on-the-job training
+State,California,2020-2022,4,21-1093,Social and Human Service Assistants,50800,54000,3200,6.3,4190,8270,15660,19.94,41481.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,21-1094,Community Health Workers,6100,6400,300,4.9,470,950,1720,22.24,46251.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,21-1099,"Community and Social Service Specialists, All Other",13100,13800,700,5.3,1000,2040,3740,23.30,48458.00,Bachelor's degree,None,None
+State,California,2020-2022,3,21-2000,Religious Workers,26300,26300,0,0.0,2500,3640,6140,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,21-2011,Clergy,13200,13300,100,0.8,1160,1710,2970,32.03,66629.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,21-2021,"Directors, Religious Activities and Education",10200,10100,-100,-1.0,1000,1510,2410,25.18,52380.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,21-2099,"Religious Workers, All Other",2900,2900,0,0.0,340,410,750,17.34,36067.00,Bachelor's degree,None,None
+State,California,2020-2022,2,23-0000,Legal Occupations,154100,162300,8200,5.3,7880,12330,28410,50.77,105597.00,N/A,N/A,N/A
+State,California,2020-2022,3,23-1000,"Lawyers, Judges, and Related Workers",107700,113300,5600,5.2,4700,5880,16180,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,23-1011,Lawyers,99900,105200,5300,5.3,4400,5430,15130,76.82,159785.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,23-1012,Judicial Law Clerks,3300,3300,0,0.0,100,200,300,32.91,68458.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",1900,1900,0,0.0,80,100,180,65.08,135363.00,Doctoral or professional degree,≥5 years,Short-term on-the-job training
+State,California,2020-2022,4,23-1022,"Arbitrators, Mediators, and Conciliators",1000,1100,100,10.0,40,60,200,50.20,104433.00,Bachelor's degree,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,23-1023,"Judges, Magistrate Judges, and Magistrates",1700,1700,0,0.0,70,90,160,98.29,204443.00,Doctoral or professional degree,≥5 years,Short-term on-the-job training
+State,California,2020-2022,3,23-2000,Legal Support Workers,46300,49100,2800,6.0,3180,6450,12430,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,23-2011,Paralegals and Legal Assistants,33300,35500,2200,6.6,2300,4980,9480,28.54,59356.00,Associate's degree,None,None
+State,California,2020-2022,4,23-2091,Court Reporters,1600,1700,100,6.3,110,190,400,0.00,0.00,Postsecondary non-degree award,None,Short-term on-the-job training
+State,California,2020-2022,4,23-2093,"Title Examiners, Abstractors, and Searchers",4000,4200,200,5.0,280,460,940,28.04,58325.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,23-2099,"Legal Support Workers, All Other",7300,7600,300,4.1,500,830,1630,25.17,52339.00,Associate's degree,None,None
+State,California,2020-2022,2,25-0000,"Education, Training, and Library Occupations",1053100,1093900,40800,3.9,91030,105500,237330,28.47,59213.00,N/A,N/A,N/A
+State,California,2020-2022,3,25-1000,Postsecondary Teachers,199500,205000,5500,2.8,14890,18550,38940,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,25-1011,"Business Teachers, Postsecondary",5800,6000,200,3.4,430,540,1170,0.00,123360.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1021,"Computer Science Teachers, Postsecondary",2400,2500,100,4.2,180,230,510,0.00,124341.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1022,"Mathematical Science Teachers, Postsecondary",5400,5400,0,0.0,400,500,900,0.00,118131.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1032,"Engineering Teachers, Postsecondary",2900,3000,100,3.4,220,270,590,0.00,124780.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1042,"Biological Science Teachers, Postsecondary",5300,5500,200,3.8,400,500,1100,0.00,123258.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",1400,1400,0,0.0,110,130,240,0.00,118039.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1052,"Chemistry Teachers, Postsecondary",1800,1900,100,5.6,140,170,410,0.00,113667.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1054,"Physics Teachers, Postsecondary",1400,1400,0,0.0,110,130,240,0.00,122268.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",1500,1600,100,6.7,120,140,360,0.00,89479.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1065,"Political Science Teachers, Postsecondary",1000,1100,100,10.0,80,100,280,0.00,120470.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1066,"Psychology Teachers, Postsecondary",5500,5600,100,1.8,410,510,1020,0.00,110174.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1067,"Sociology Teachers, Postsecondary",1200,1200,0,0.0,90,110,200,0.00,106476.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1069,"Social Sciences Teachers, Postsecondary, All Other",2800,2800,0,0.0,200,250,450,0.00,111920.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1071,"Health Specialties Teachers, Postsecondary",14400,15300,900,6.3,1090,1360,3350,0.00,107896.00,Doctoral or professional degree,<5 years,None
+State,California,2020-2022,4,25-1072,"Nursing Instructors and Teachers, Postsecondary",3800,4000,200,5.3,290,360,850,0.00,97211.00,Doctoral or professional degree,<5 years,None
+State,California,2020-2022,4,25-1081,"Education Teachers, Postsecondary",4200,4400,200,4.8,320,400,920,0.00,86129.00,Doctoral or professional degree,<5 years,None
+State,California,2020-2022,4,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",1300,1300,0,0.0,100,120,220,0.00,120276.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1112,"Law Teachers, Postsecondary",2400,2500,100,4.2,180,220,500,0.00,135363.00,Doctoral or professional degree,<5 years,None
+State,California,2020-2022,4,25-1121,"Art, Drama, and Music Teachers, Postsecondary",11300,11600,300,2.7,840,1050,2190,0.00,101072.00,Master's degree,None,None
+State,California,2020-2022,4,25-1122,"Communications Teachers, Postsecondary",2200,2200,0,0.0,160,200,360,0.00,0.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1123,"English Language and Literature Teachers, Postsecondary",7100,7200,100,1.4,530,650,1280,0.00,117089.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1124,"Foreign Language and Literature Teachers, Postsecondary",3000,3000,0,0.0,220,280,500,0.00,102002.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1125,"History Teachers, Postsecondary",1600,1600,0,0.0,120,150,270,0.00,112084.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1126,"Philosophy and Religion Teachers, Postsecondary",2700,2800,100,3.7,200,250,550,0.00,109745.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1191,Graduate Teaching Assistants,29700,30700,1000,3.4,2220,2770,5990,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",2100,2100,0,0.0,150,190,340,0.00,111328.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,25-1194,"Vocational Education Teachers, Postsecondary",8500,8700,200,2.4,640,790,1630,38.70,80500.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,3,25-2000,"Preschool, Primary, Secondary, and Special Education School Teachers",410900,427500,16600,4.0,26460,37810,80870,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,25-2011,"Preschool Teachers, Except Special Education",46400,50600,4200,9.1,3840,5890,13930,17.19,35751.00,Associate's degree,None,None
+State,California,2020-2022,4,25-2012,"Kindergarten Teachers, Except Special Education",11400,11900,500,4.4,920,1420,2840,0.00,74116.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2021,"Elementary School Teachers, Except Special Education",159300,164600,5300,3.3,10080,13810,29190,0.00,85148.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2022,"Middle School Teachers, Except Special and Career/Technical Education",45200,46700,1500,3.3,2860,3920,8280,0.00,81849.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",109900,113700,3800,3.5,6210,9450,19460,0.00,88989.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2032,"Career/Technical Education Teachers, Secondary School",4500,4600,100,2.2,250,380,730,0.00,80705.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,25-2051,"Special Education Teachers, Preschool",1200,1300,100,8.3,80,110,290,0.00,47559.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2052,"Special Education Teachers, Kindergarten and Elementary School",14800,15200,400,2.7,990,1260,2650,0.00,79132.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2053,"Special Education Teachers, Middle School",4600,4700,100,2.2,310,390,800,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2054,"Special Education Teachers, Secondary School",10200,10500,300,2.9,680,870,1850,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-2059,"Special Education Teachers, All Other",2900,3000,100,3.4,200,250,550,0.00,64331.00,Bachelor's degree,None,None
+State,California,2020-2022,3,25-3000,Other Teachers and Instructors,213800,224100,10300,4.8,25290,24630,60220,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,25-3011,Adult Basic and Secondary Education and Literacy Teachers and Instructors,10700,10800,100,0.9,1240,1210,2550,40.87,85015.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-3021,Self-Enrichment Education Teachers,33000,35900,2900,8.8,3980,3880,10760,19.68,40929.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,25-3097,"Teachers and Instructors, All Other, Except Substitute Teachers",69500,73200,3700,5.3,8240,8020,19960,0.00,40092.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-3098,Substitute Teachers,100500,104300,3800,3.8,11830,11520,27150,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,3,25-4000,"Librarians, Curators, and Archivists",22500,23000,500,2.2,3120,2590,6210,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,25-4012,Curators,1000,1100,100,10.0,100,140,340,31.22,64923.00,Master's degree,None,None
+State,California,2020-2022,4,25-4013,Museum Technicians and Conservators,1800,1900,100,5.6,170,240,510,23.65,49193.00,Bachelor's degree,None,None
+State,California,2020-2022,4,25-4021,Librarians,9000,9200,200,2.2,980,830,2010,0.00,0.00,Master's degree,None,None
+State,California,2020-2022,4,25-4031,Library Technicians,10300,10400,100,1.0,1840,1330,3270,22.38,46547.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,3,25-9000,"Other Education, Training, and Library Occupations",206600,214300,7700,3.7,21270,21920,50890,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,25-9011,Audio-Visual and Multimedia Collections Specialists,1000,1100,100,10.0,90,110,300,0.00,0.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,25-9031,Instructional Coordinators,20600,21400,800,3.9,1750,2150,4700,39.98,83156.00,Master's degree,≥5 years,None
+State,California,2020-2022,4,25-9041,Teacher Assistants,160900,167000,6100,3.8,17410,17150,40660,0.00,0.00,"Some college, no degree",None,None
+State,California,2020-2022,4,25-9099,"Education, Training, and Library Workers, All Other",23900,24700,800,3.3,2020,2490,5310,24.19,50317.00,Bachelor's degree,None,None
+State,California,2020-2022,2,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",365500,413900,48400,13.2,29710,54080,132190,30.13,62666.00,N/A,N/A,N/A
+State,California,2020-2022,3,27-1000,Art and Design Workers,129300,146600,17300,13.4,10790,17600,45690,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,27-1011,Art Directors,16300,18300,2000,12.3,1770,1990,5760,59.07,122870.00,Bachelor's degree,≥5 years,None
+State,California,2020-2022,4,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",4100,4600,500,12.2,450,500,1450,36.26,75424.00,Bachelor's degree,None,Long-term on-the-job training
+State,California,2020-2022,4,27-1014,Multimedia Artists and Animators,24200,27400,3200,13.2,2640,2970,8810,44.07,91644.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-1021,Commercial and Industrial Designers,4700,5200,500,10.6,320,670,1490,36.86,76680.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-1022,Fashion Designers,6300,7500,1200,19.0,450,930,2580,40.54,84331.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-1023,Floral Designers,4900,5800,900,18.4,350,720,1970,16.00,33279.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,27-1024,Graphic Designers,34000,37900,3900,11.5,2330,4830,11060,29.31,60950.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-1025,Interior Designers,9500,11100,1600,16.8,670,1380,3650,31.22,64913.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-1026,Merchandise Displayers and Window Trimmers,18800,21500,2700,14.4,1310,2710,6720,15.44,32125.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,27-1027,Set and Exhibit Designers,2600,3000,400,15.4,180,370,950,27.32,56833.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-1029,"Designers, All Other",2400,2800,400,16.7,170,350,920,39.62,82411.00,Bachelor's degree,None,None
+State,California,2020-2022,3,27-2000,"Entertainers and Performers, Sports and Related Workers",84600,96300,11700,13.8,7700,14250,33650,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,27-2011,Actors,12900,15400,2500,19.4,1060,2270,5830,23.25,0.00,"Some college, no degree",None,Long-term on-the-job training
+State,California,2020-2022,4,27-2012,Producers and Directors,25100,29000,3900,15.5,1180,4130,9210,48.63,101154.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,27-2022,Coaches and Scouts,23800,26700,2900,12.2,2850,4510,10260,0.00,40766.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-2023,"Umpires, Referees, and Other Sports Officials",1900,2100,200,10.5,230,360,790,0.00,29694.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,27-2041,Music Directors and Composers,3000,3100,100,3.3,350,380,830,27.77,57773.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,27-2042,Musicians and Singers,11400,12200,800,7.0,1350,1460,3610,35.06,0.00,No formal educational credential,None,Long-term on-the-job training
+State,California,2020-2022,4,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",5000,5900,900,18.0,470,780,2150,0.00,0.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,3,27-3000,Media and Communication Workers,91900,100700,8800,9.6,7000,13180,28980,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,27-3011,Radio and Television Announcers,3500,3500,0,0.0,290,520,810,26.77,55689.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-3012,Public Address System and Other Announcers,1100,1300,200,18.2,100,180,480,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,27-3022,Reporters and Correspondents,3700,3800,100,2.7,260,660,1020,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-3031,Public Relations Specialists,26900,29100,2200,8.2,1650,4160,8010,32.36,67314.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-3041,Editors,12400,13300,900,7.3,780,2030,3710,34.03,70797.00,Bachelor's degree,<5 years,None
+State,California,2020-2022,4,27-3042,Technical Writers,6800,7400,600,8.8,450,940,1990,44.33,92196.00,Bachelor's degree,<5 years,Short-term on-the-job training
+State,California,2020-2022,4,27-3043,Writers and Authors,17800,19700,1900,10.7,1600,2310,5810,37.33,77651.00,Bachelor's degree,None,Long-term on-the-job training
+State,California,2020-2022,4,27-3091,Interpreters and Translators,11300,12800,1500,13.3,1080,1350,3930,28.27,58815.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-3099,"Media and Communication Workers, All Other",7900,9300,1400,17.7,770,960,3130,26.92,55986.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,27-4000,Media and Communication Equipment Workers,59700,70300,10600,17.8,4240,9050,23890,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,27-4011,Audio and Video Equipment Technicians,12700,14700,2000,15.7,900,2020,4920,25.43,52901.00,Postsecondary non-degree award,None,Short-term on-the-job training
+State,California,2020-2022,4,27-4012,Broadcast Technicians,4200,4400,200,4.8,290,640,1130,19.37,40286.00,Associate's degree,None,Short-term on-the-job training
+State,California,2020-2022,4,27-4014,Sound Engineering Technicians,3300,4200,900,27.3,250,550,1700,0.00,0.00,Postsecondary non-degree award,None,Short-term on-the-job training
+State,California,2020-2022,4,27-4021,Photographers,15700,18300,2600,16.6,1300,2060,5960,23.43,48744.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,27-4031,"Camera Operators, Television, Video, and Motion Picture",4600,5500,900,19.6,270,720,1890,31.53,65598.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-4032,Film and Video Editors,11500,14100,2600,22.6,680,1820,5100,42.19,87753.00,Bachelor's degree,None,None
+State,California,2020-2022,4,27-4099,"Media and Communication Equipment Workers, All Other",7700,9100,1400,18.2,550,1240,3190,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,2,29-0000,Healthcare Practitioners and Technical Occupations,837600,914200,76600,9.1,45680,52260,174540,46.05,95771.00,N/A,N/A,N/A
+State,California,2020-2022,3,29-1000,Health Diagnosing and Treating Practitioners,535000,582300,47300,8.8,27190,26440,100930,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,29-1011,Chiropractors,4400,5100,700,15.9,170,90,960,30.97,64413.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,29-1021,"Dentists, General",13800,20800,7000,50.7,750,300,8050,67.49,140368.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,29-1031,Dietitians and Nutritionists,8100,8700,600,7.4,540,510,1650,38.57,80214.00,Bachelor's degree,None,Internship/residency
+State,California,2020-2022,4,29-1041,Optometrists,3900,4500,600,15.4,160,90,850,60.96,126793.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,29-1051,Pharmacists,29400,31200,1800,6.1,1430,1290,4520,72.81,151450.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,29-1061,Anesthesiologists,3800,4200,400,10.5,130,100,630,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1062,Family and General Practitioners,13200,14200,1000,7.6,450,350,1800,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1063,"Internists, General",2900,3100,200,6.9,100,80,380,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1064,Obstetricians and Gynecologists,2100,2300,200,9.5,70,60,330,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1065,"Pediatricians, General",3800,4100,300,7.9,130,100,530,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1066,Psychiatrists,3700,3900,200,5.4,120,100,420,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1067,Surgeons,3400,3700,300,8.8,120,90,510,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1069,"Physicians and Surgeons, All Other",37300,40400,3100,8.3,1280,1000,5380,0.00,0.00,Doctoral or professional degree,None,Internship/residency
+State,California,2020-2022,4,29-1071,Physician Assistants,10400,12000,1600,15.4,340,930,2870,61.28,127456.00,Master's degree,None,None
+State,California,2020-2022,4,29-1122,Occupational Therapists,9400,10500,1100,11.7,440,670,2210,48.77,101440.00,Master's degree,None,None
+State,California,2020-2022,4,29-1123,Physical Therapists,21100,23700,2600,12.3,820,1050,4470,49.53,103023.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,29-1124,Radiation Therapists,1100,1100,0,0.0,30,70,100,58.29,121256.00,Associate's degree,None,None
+State,California,2020-2022,4,29-1125,Recreational Therapists,1600,1700,100,6.3,70,90,260,40.15,83524.00,Bachelor's degree,None,None
+State,California,2020-2022,4,29-1126,Respiratory Therapists,17300,18700,1400,8.1,990,910,3300,40.47,84178.00,Associate's degree,None,None
+State,California,2020-2022,4,29-1127,Speech-Language Pathologists,13000,14700,1700,13.1,550,940,3190,45.70,95056.00,Master's degree,None,Internship/residency
+State,California,2020-2022,4,29-1128,Exercise Physiologists,1000,1100,100,10.0,50,70,220,34.13,70991.00,Bachelor's degree,None,None
+State,California,2020-2022,4,29-1129,"Therapists, All Other",1500,1700,200,13.3,80,100,380,23.85,49602.00,Bachelor's degree,None,None
+State,California,2020-2022,4,29-1131,Veterinarians,8100,9600,1500,18.5,340,340,2180,52.97,110194.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,29-1141,Registered Nurses,296400,312700,16300,5.5,16900,15620,48820,54.32,112993.00,Bachelor's degree,None,None
+State,California,2020-2022,4,29-1151,Nurse Anesthetists,1200,1300,100,8.3,40,90,230,0.00,0.00,Master's degree,None,None
+State,California,2020-2022,4,29-1171,Nurse Practitioners,13700,16100,2400,17.5,590,1010,4000,63.82,132748.00,Master's degree,None,None
+State,California,2020-2022,4,29-1181,Audiologists,1000,1100,100,10.0,40,40,180,49.66,103299.00,Doctoral or professional degree,None,None
+State,California,2020-2022,4,29-1199,"Health Diagnosing and Treating Practitioners, All Other",5800,6500,700,12.1,350,220,1270,0.00,0.00,Master's degree,None,None
+State,California,2020-2022,3,29-2000,Health Technologists and Technicians,286300,314500,28200,9.8,17720,24700,70620,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,29-2010,Clinical Laboratory Technologists and Technicians,28800,30500,1700,5.9,1630,2100,5430,28.54,59367.00,Bachelor's degree,None,None
+State,California,2020-2022,4,29-2021,Dental Hygienists,14300,22800,8500,59.4,1550,940,10990,0.00,0.00,Associate's degree,None,None
+State,California,2020-2022,4,29-2031,Cardiovascular Technologists and Technicians,4800,5100,300,6.3,240,300,840,35.57,73973.00,Associate's degree,None,None
+State,California,2020-2022,4,29-2032,Diagnostic Medical Sonographers,6900,7400,500,7.2,350,430,1280,48.16,100174.00,Associate's degree,None,None
+State,California,2020-2022,4,29-2033,Nuclear Medicine Technologists,1500,1600,100,6.7,80,100,280,56.92,118386.00,Associate's degree,None,None
+State,California,2020-2022,4,29-2034,Radiologic Technologists,17600,18700,1100,6.3,890,1100,3090,41.58,86486.00,Associate's degree,None,None
+State,California,2020-2022,4,29-2035,Magnetic Resonance Imaging Technologists,3300,3600,300,9.1,170,210,680,48.08,100010.00,Associate's degree,<5 years,None
+State,California,2020-2022,4,29-2041,Emergency Medical Technicians and Paramedics,21700,23300,1600,7.4,800,2190,4590,0.00,0.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,29-2051,Dietetic Technicians,5200,5400,200,3.8,300,540,1040,15.37,31971.00,Associate's degree,None,None
+State,California,2020-2022,4,29-2052,Pharmacy Technicians,34900,38000,3100,8.9,2110,3770,8980,21.26,44208.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,29-2053,Psychiatric Technicians,8500,8800,300,3.5,500,900,1700,32.88,68396.00,Postsecondary non-degree award,<5 years,Short-term on-the-job training
+State,California,2020-2022,4,29-2055,Surgical Technologists,9700,10200,500,5.2,580,1030,2110,30.46,63361.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,29-2056,Veterinary Technologists and Technicians,8700,10400,1700,19.5,550,990,3240,20.48,42594.00,Associate's degree,None,None
+State,California,2020-2022,4,29-2057,Ophthalmic Medical Technicians,2900,3300,400,13.8,180,320,900,19.37,40276.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,29-2061,Licensed Practical and Licensed Vocational Nurses,64400,68100,3700,5.7,4500,5600,13800,29.08,60480.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,29-2071,Medical Records and Health Information Technicians,22000,23500,1500,6.8,1340,1550,4390,0.00,0.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,29-2081,"Opticians, Dispensing",6500,7500,1000,15.4,550,550,2100,21.37,44443.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,29-2099,"Health Technologists and Technicians, All Other",22800,24300,1500,6.6,1280,1910,4690,0.00,0.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,3,29-9000,Other Healthcare Practitioners and Technical Occupations,16300,17400,1100,6.7,770,1120,2990,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,29-9011,Occupational Health and Safety Specialists,8100,8600,500,6.2,380,550,1430,0.00,0.00,Bachelor's degree,None,None
+State,California,2020-2022,4,29-9012,Occupational Health and Safety Technicians,1600,1700,100,6.3,80,110,290,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,29-9091,Athletic Trainers,1400,1500,100,7.1,70,100,270,0.00,57732.00,Bachelor's degree,None,None
+State,California,2020-2022,4,29-9099,"Healthcare Practitioners and Technical Workers, All Other",4700,5000,300,6.4,220,320,840,0.00,0.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,2,31-0000,Healthcare Support Occupations,338700,390800,52100,15.4,34990,48500,135590,14.32,29779.00,N/A,N/A,N/A
+State,California,2020-2022,3,31-1000,"Nursing, Psychiatric, and Home Health Aides",131300,137900,6600,5.0,14480,15700,36780,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,31-1011,Home Health Aides,25700,28000,2300,8.9,2890,3130,8320,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,31-1013,Psychiatric Aides,1800,1900,100,5.6,200,220,520,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,31-1014,Nursing Assistants,99300,103400,4100,4.1,10900,11820,26820,0.00,0.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,31-1015,Orderlies,4500,4700,200,4.4,490,530,1220,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,31-2000,Occupational Therapy and Physical Therapist Assistants and Aides,13800,16300,2500,18.1,1300,2340,6140,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,31-2011,Occupational Therapy Assistants,2100,2500,400,19.0,200,300,900,35.49,73804.00,Associate's degree,None,None
+State,California,2020-2022,4,31-2021,Physical Therapist Assistants,4900,5800,900,18.4,460,870,2230,34.48,71713.00,Associate's degree,None,None
+State,California,2020-2022,4,31-2022,Physical Therapist Aides,6100,7200,1100,18.0,570,1070,2740,14.18,29511.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,31-9000,Other Healthcare Support Occupations,193500,236600,43100,22.3,19220,30450,92770,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,31-9011,Massage Therapists,9600,17500,7900,82.3,1690,1460,11050,17.37,36114.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,31-9091,Dental Assistants,35100,54400,19300,55.0,4150,5890,29340,20.46,42562.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,31-9092,Medical Assistants,92000,102700,10700,11.6,7600,13850,32150,18.64,38772.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,31-9093,Medical Equipment Preparers,6300,6800,500,7.9,640,840,1980,24.42,50792.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,31-9094,Medical Transcriptionists,5000,5400,400,8.0,630,820,1850,17.70,36814.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,31-9095,Pharmacy Aides,8600,9100,500,5.8,860,1400,2760,15.68,32612.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,31-9096,Veterinary Assistants and Laboratory Animal Caretakers,11900,14000,2100,17.6,1410,2770,6280,15.96,33178.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,31-9097,Phlebotomists,12500,13400,900,7.2,970,1770,3640,22.11,45982.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,31-9099,"Healthcare Support Workers, All Other",12600,13300,700,5.6,1270,1670,3640,22.75,47321.00,High school diploma or equivalent,None,None
+State,California,2020-2022,2,33-0000,Protective Service Occupations,371300,386200,14900,4.0,35970,49430,100300,22.96,47754.00,N/A,N/A,N/A
+State,California,2020-2022,3,33-1000,Supervisors of Protective Service Workers,21600,22300,700,3.2,1350,2060,4110,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,33-1011,First-Line Supervisors of Correctional Officers,4800,4800,0,0.0,300,370,670,51.46,107034.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,33-1012,First-Line Supervisors of Police and Detectives,5100,5100,0,0.0,250,380,630,77.69,161597.00,High school diploma or equivalent,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,33-1021,First-Line Supervisors of Fire Fighting and Prevention Workers,2800,2900,100,3.6,140,220,460,64.09,133301.00,Postsecondary non-degree award,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,3,33-2000,Fire Fighting and Prevention Workers,32800,33500,700,2.1,1240,3320,5260,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,33-2011,Firefighters,31800,32400,600,1.9,1160,3220,4980,38.29,79645.00,Postsecondary non-degree award,None,Long-term on-the-job training
+State,California,2020-2022,3,33-3000,Law Enforcement Workers,120700,122000,1300,1.1,6790,11420,19510,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,33-3012,Correctional Officers and Jailers,36300,36400,100,0.3,2770,3640,6510,39.59,82333.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,33-3021,Detectives and Criminal Investigators,12000,12100,100,0.8,510,1040,1650,50.21,104428.00,High school diploma or equivalent,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,33-3041,Parking Enforcement Workers,1300,1200,-100,-7.7,60,120,80,28.48,59249.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,33-3051,Police and Sheriff's Patrol Officers,70300,71400,1100,1.6,3410,6540,11050,53.90,112112.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,33-9000,Other Protective Service Workers,196200,208400,12200,6.2,26590,32640,71430,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,33-9011,Animal Control Workers,1200,1200,0,0.0,100,130,230,26.00,54089.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,33-9021,Private Detectives and Investigators,3900,4200,300,7.7,280,440,1020,31.75,66037.00,High school diploma or equivalent,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,33-9032,Security Guards,145200,154400,9200,6.3,15290,23280,47770,15.16,31541.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,33-9091,Crossing Guards,5900,6300,400,6.8,1440,560,2400,19.79,41161.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",12700,13900,1200,9.4,3500,2920,7620,15.76,32787.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,33-9093,Transportation Security Screeners,6500,6600,100,1.5,550,690,1340,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,33-9099,"Protective Service Workers, All Other",19900,20900,1000,5.0,5370,4480,10850,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,2,35-0000,Food Preparation and Serving Related Occupations,1080600,1401500,320900,29.7,172960,252010,745870,13.47,28018.00,N/A,N/A,N/A
+State,California,2020-2022,3,35-1000,Supervisors of Food Preparation and Serving Workers,78300,101500,23200,29.6,7410,19350,49960,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,35-1011,Chefs and Head Cooks,13500,17800,4300,31.9,940,3140,8380,25.05,52111.00,High school diploma or equivalent,≥5 years,None
+State,California,2020-2022,4,35-1012,First-Line Supervisors of Food Preparation and Serving Workers,64900,83700,18800,29.0,6470,16210,41480,17.63,36681.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,35-2000,Cooks and Food Preparation Workers,300800,385600,84800,28.2,39860,62580,187240,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,35-2011,"Cooks, Fast Food",72700,93800,21100,29.0,8840,14720,44660,12.82,26668.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-2012,"Cooks, Institution and Cafeteria",26600,28700,2100,7.9,2940,4890,9930,17.28,35960.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-2013,"Cooks, Private Household",2500,2600,100,4.0,270,450,820,20.97,43634.00,Postsecondary non-degree award,<5 years,None
+State,California,2020-2022,4,35-2014,"Cooks, Restaurant",107600,148700,41100,38.2,13610,22650,77360,15.07,31335.00,No formal educational credential,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,35-2015,"Cooks, Short Order",11500,14300,2800,24.3,1370,2280,6450,14.27,29686.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-2019,"Cooks, All Other",3500,4200,700,20.0,410,690,1800,16.79,34919.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,35-2021,Food Preparation Workers,76400,93200,16800,22.0,12430,16900,46130,13.65,28378.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,3,35-3000,Food and Beverage Serving Workers,553800,719400,165600,29.9,96210,138090,399900,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,35-3011,Bartenders,36600,50700,14100,38.5,4080,11270,29450,13.29,27647.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food",279500,361400,81900,29.3,51100,63030,196030,0.00,0.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",31900,38200,6300,19.7,7890,7320,21510,0.00,0.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-3031,Waiters and Waitresses,185200,246600,61400,33.2,29960,52900,144260,13.16,27379.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-3041,"Food Servers, Nonrestaurant",20600,22600,2000,9.7,3180,3570,8750,14.39,29934.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,3,35-9000,Other Food Preparation and Serving Related Workers,147700,195100,47400,32.1,29480,32000,108880,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,51800,69100,17300,33.4,9960,10690,37950,12.72,26462.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-9021,Dishwashers,54200,70600,16400,30.3,9290,10530,36220,12.78,26586.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",32500,43700,11200,34.5,8510,8940,28650,12.91,26843.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,35-9099,"Food Preparation and Serving Related Workers, All Other",9200,11600,2400,26.1,1720,1840,5960,13.07,27183.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,2,37-0000,Building and Grounds Cleaning and Maintenance Occupations,518700,569700,51000,9.8,60220,81650,192870,16.15,33590.00,N/A,N/A,N/A
+State,California,2020-2022,3,37-1000,Supervisors of Building and Grounds Cleaning and Maintenance Workers,36800,40700,3900,10.6,2980,5640,12520,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,19000,21300,2300,12.1,1700,2880,6880,22.94,47713.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",17800,19300,1500,8.4,1280,2760,5540,27.54,57292.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,37-2000,Building Cleaning and Pest Control Workers,339300,374200,34900,10.3,45060,49680,129640,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",227200,245800,18600,8.2,28920,33360,80880,15.70,32653.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,37-2012,Maids and Housekeeping Cleaners,101600,117200,15600,15.4,15480,13980,45060,14.94,31077.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,37-2021,Pest Control Workers,10000,10700,700,7.0,590,2250,3540,20.25,42119.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,37-3000,Grounds Maintenance Workers,142500,154800,12300,8.6,12180,26330,50810,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,37-3011,Landscaping and Groundskeeping Workers,128500,139700,11200,8.7,10980,23740,45920,16.49,34301.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",3600,4000,400,11.1,310,680,1390,22.59,46981.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,37-3013,Tree Trimmers and Pruners,8800,9400,600,6.8,750,1620,2970,23.08,48022.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,37-3019,"Grounds Maintenance Workers, All Other",1600,1700,100,6.3,130,290,520,20.33,42294.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,2,39-0000,Personal Care and Service Occupations,938700,1087900,149200,15.9,145220,149450,443870,14.62,30408.00,N/A,N/A,N/A
+State,California,2020-2022,3,39-1000,Supervisors of Personal Care and Service Workers,39100,45700,6600,16.9,3460,5390,15450,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-1010,First-Line Supervisors of Gaming Workers,4400,5600,1200,27.3,450,1140,2790,0.00,0.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,39-1021,First-Line Supervisors of Personal Service Workers,34800,40100,5300,15.2,3010,4250,12560,0.00,0.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,39-2000,Animal Care and Service Workers,23500,31300,7800,33.2,3720,5050,16570,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-2011,Animal Trainers,3000,3800,800,26.7,380,610,1790,18.36,38174.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,39-2021,Nonfarm Animal Caretakers,20600,27500,6900,33.5,3340,4440,14680,14.21,29573.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,39-3000,Entertainment Attendants and Related Workers,57300,72700,15400,26.9,12940,14900,43240,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-3011,Gaming Dealers,11600,14300,2700,23.3,1580,2440,6720,12.26,25494.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-3012,Gaming and Sports Book Writers and Runners,1400,1600,200,14.3,180,280,660,14.29,29728.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-3019,"Gaming Service Workers, All Other",1300,1500,200,15.4,170,270,640,15.62,32488.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-3031,"Ushers, Lobby Attendants, and Ticket Takers",10500,12300,1800,17.1,2980,2560,7340,13.26,27565.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,39-3091,Amusement and Recreation Attendants,29200,39000,9800,33.6,7250,8450,25500,13.03,27111.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",1700,2000,300,17.6,390,450,1140,17.63,36681.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,39-4000,Funeral Service Workers,4000,4400,400,10.0,650,560,1610,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-4021,Funeral Attendants,2100,2300,200,9.5,410,290,900,17.27,35929.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-4031,"Morticians, Undertakers, and Funeral Directors",1400,1600,200,14.3,150,210,560,24.70,51380.00,Associate's degree,None,Long-term on-the-job training
+State,California,2020-2022,3,39-5000,Personal Appearance Workers,37900,79300,41400,109.2,6810,7210,55420,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-5011,Barbers,1500,4200,2700,180.0,290,340,3330,12.98,27008.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,39-5012,"Hairdressers, Hairstylists, and Cosmetologists",21500,42100,20600,95.8,3860,4060,28520,13.75,28605.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,39-5091,"Makeup Artists, Theatrical and Performance",1400,1800,400,28.6,180,190,770,47.02,97805.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,39-5092,Manicurists and Pedicurists,8300,22700,14400,173.5,1720,1820,17940,13.34,27750.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,39-5094,Skincare Specialists,4900,7700,2800,57.1,690,730,4220,15.87,33014.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,3,39-6000,"Baggage Porters, Bellhops, and Concierges",6800,8600,1800,26.5,800,1400,4000,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-6011,Baggage Porters and Bellhops,4100,5200,1100,26.8,490,850,2440,14.74,30665.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-6012,Concierges,2700,3400,700,25.9,320,550,1570,18.16,37762.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,39-7000,Tour and Travel Guides,6200,6900,700,11.3,1010,1280,2990,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-7010,Tour and Travel Guides,6200,6900,700,11.3,1010,1280,2990,16.98,35300.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,39-9000,Other Personal Care and Service Workers,763800,838900,75100,9.8,115830,113650,304580,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,39-9011,Childcare Workers,85900,90900,5000,5.8,13070,13300,31370,13.83,28780.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-9021,Personal Care Aides,593800,650900,57100,9.6,91970,81520,230590,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-9031,Fitness Trainers and Aerobics Instructors,24700,33500,8800,35.6,3470,6200,18470,23.76,49433.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-9032,Recreation Workers,45600,48500,2900,6.4,5610,10010,18520,14.67,30511.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-9041,Residential Advisors,7100,7300,200,2.8,790,1400,2390,16.63,34579.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,39-9099,"Personal Care and Service Workers, All Other",6800,7900,1100,16.2,910,1220,3230,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,2,41-0000,Sales and Related Occupations,1480900,1700900,220000,14.9,172040,270770,662810,16.53,34374.00,N/A,N/A,N/A
+State,California,2020-2022,3,41-1000,Supervisors of Sales Workers,159200,185700,26500,16.6,11750,25060,63310,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,41-1011,First-Line Supervisors of Retail Sales Workers,122300,145500,23200,19.0,9260,20190,52650,20.77,43215.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,41-1012,First-Line Supervisors of Non-Retail Sales Workers,36900,40200,3300,8.9,2490,4870,10660,33.30,69269.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,41-2000,Retail Sales Workers,776800,922100,145300,18.7,119810,156470,421580,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,41-2011,Cashiers,353400,398600,45200,12.8,67120,74740,187060,13.33,27710.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,41-2012,Gaming Change Persons and Booth Cashiers,2100,2600,500,23.8,420,470,1390,13.41,27897.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,41-2021,Counter and Rental Clerks,77600,87100,9500,12.2,8340,12790,30630,15.33,31896.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,41-2022,Parts Salespersons,21100,24100,3000,14.2,1850,3590,8440,16.64,34603.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-2031,Retail Salespersons,322600,409700,87100,27.0,42080,64880,194060,14.43,30011.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,3,41-3000,"Sales Representatives, Services",256300,278000,21700,8.5,16650,45120,83470,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,41-3011,Advertising Sales Agents,17400,19100,1700,9.8,1150,3800,6650,30.64,63719.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-3021,Insurance Sales Agents,46100,47400,1300,2.8,3440,5640,10380,26.51,55138.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-3031,"Securities, Commodities, and Financial Services Sales Agents",54700,57100,2400,4.4,2890,7710,13000,28.11,58460.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-3041,Travel Agents,9200,9600,400,4.3,1090,1400,2890,23.28,48432.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-3099,"Sales Representatives, Services, All Other",128800,144800,16000,12.4,8080,26560,50640,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,41-4000,"Sales Representatives, Wholesale and Manufacturing",179200,194600,15400,8.6,11370,27840,54610,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41100,44300,3200,7.8,2600,6360,12160,42.98,89387.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",138100,150300,12200,8.8,8770,21470,42440,31.09,64677.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,41-9000,Other Sales and Related Workers,109400,120600,11200,10.2,12460,16290,39950,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,41-9011,Demonstrators and Product Promoters,16700,19300,2600,15.6,3640,2520,8760,17.97,37383.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,41-9021,Real Estate Brokers,13500,14700,1200,8.9,1280,1410,3890,34.24,71216.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,41-9022,Real Estate Sales Agents,22300,24200,1900,8.5,2100,2320,6320,29.96,62302.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-9031,Sales Engineers,11000,11900,900,8.2,540,1990,3430,54.72,113817.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,41-9041,Telemarketers,10500,11400,900,8.6,1060,2390,4350,14.37,29896.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",13000,13600,600,4.6,1770,1500,3870,14.11,29344.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,41-9099,"Sales and Related Workers, All Other",22000,25200,3200,14.5,2020,4130,9350,21.35,44412.00,High school diploma or equivalent,None,None
+State,California,2020-2022,2,43-0000,Office and Administrative Support Occupations,2336800,2519600,182800,7.8,236340,329400,748540,20.78,43234.00,N/A,N/A,N/A
+State,California,2020-2022,3,43-1000,Supervisors of Office and Administrative Support Workers,159000,173300,14300,9.0,12460,22350,49110,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,43-1011,First-Line Supervisors of Office and Administrative Support Workers,159000,173300,14300,9.0,12460,22350,49110,29.75,61895.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,43-2000,Communications Equipment Operators,10100,10600,500,5.0,1160,1400,3060,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,43-2011,"Switchboard Operators, Including Answering Service",9400,9900,500,5.3,1110,1280,2890,18.03,37488.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,43-3000,Financial Clerks,338800,363700,24900,7.3,37200,43830,105930,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,43-3011,Bill and Account Collectors,21700,23200,1500,6.9,1740,3620,6860,21.15,44002.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-3021,Billing and Posting Clerks,49800,54900,5100,10.2,4310,7060,16470,21.56,44842.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",185800,201300,15500,8.3,23550,21550,60600,23.24,48334.00,"Some college, no degree",None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-3041,Gaming Cage Workers,2700,3400,700,25.9,290,540,1530,14.61,30369.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-3051,Payroll and Timekeeping Clerks,21800,23300,1500,6.9,2120,2830,6450,26.28,54654.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-3061,Procurement Clerks,6700,7000,300,4.5,470,950,1720,22.18,46132.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-3071,Tellers,43100,43000,-100,-0.2,4220,6160,10280,16.67,34681.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-3099,"Financial Clerks, All Other",7200,7600,400,5.6,490,1110,2000,22.92,47679.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,43-4000,Information and Record Clerks,492300,539400,47100,9.6,50710,80010,177820,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,43-4011,Brokerage Clerks,6200,6500,300,4.8,610,720,1630,28.15,58536.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-4031,"Court, Municipal, and License Clerks",11700,11900,200,1.7,1070,1120,2390,24.20,50332.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,43-4041,"Credit Authorizers, Checkers, and Clerks",2300,2500,200,8.7,150,320,670,19.52,40601.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-4051,Customer Service Representatives,194800,210800,16000,8.2,19480,34580,70060,19.17,39874.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4061,"Eligibility Interviewers, Government Programs",21800,22100,300,1.4,1690,2480,4470,26.91,55965.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-4071,File Clerks,13100,13700,600,4.6,1550,1760,3910,16.69,34702.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4081,"Hotel, Motel, and Resort Desk Clerks",15600,21000,5400,34.6,2010,4190,11600,14.45,30052.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4111,"Interviewers, Except Eligibility and Loan",19900,21400,1500,7.5,2100,2990,6590,20.65,42947.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4121,"Library Assistants, Clerical",8700,8800,100,1.1,1390,1240,2730,17.78,36996.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4131,Loan Interviewers and Clerks,22200,23300,1100,5.0,1700,2910,5710,22.35,46491.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4141,New Accounts Clerks,2900,2900,0,0.0,240,420,660,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-4151,Order Clerks,31400,34100,2700,8.6,2740,4800,10240,18.43,38317.00,"Some college, no degree",None,Short-term on-the-job training
+State,California,2020-2022,4,43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",13100,14200,1100,8.4,1000,2100,4200,21.35,44401.00,Associate's degree,None,None
+State,California,2020-2022,4,43-4171,Receptionists and Information Clerks,90700,105400,14700,16.2,11420,14930,41050,16.28,33862.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,16200,17900,1700,10.5,1420,2450,5570,18.44,38338.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-4199,"Information and Record Clerks, All Other",21400,22500,1100,5.1,2130,2940,6170,23.03,47884.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,43-5000,"Material Recording, Scheduling, Dispatching, and Distributing Workers",462500,504800,42300,9.1,41460,68140,151900,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,43-5011,Cargo and Freight Agents,12300,14000,1700,13.8,940,1560,4200,22.01,45784.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5021,Couriers and Messengers,14500,17500,3000,20.7,1260,1790,6050,16.21,33739.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5031,"Police, Fire, and Ambulance Dispatchers",6600,6800,200,3.0,470,800,1470,32.50,67601.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-5032,"Dispatchers, Except Police, Fire, and Ambulance",20500,22400,1900,9.3,1510,2550,5960,20.19,42005.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-5041,"Meter Readers, Utilities",2000,2000,0,0.0,170,230,400,29.52,61404.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5051,Postal Service Clerks,6900,6600,-300,-4.3,560,470,730,29.91,62213.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5052,Postal Service Mail Carriers,32400,30800,-1600,-4.9,2310,2390,3100,31.71,65962.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",11800,11100,-700,-5.9,1050,850,1200,29.61,61598.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5061,"Production, Planning, and Expediting Clerks",47700,52200,4500,9.4,3310,7100,14910,25.33,52698.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-5071,"Shipping, Receiving, and Traffic Clerks",78900,86300,7400,9.4,5520,10880,23800,17.21,35787.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5081,Stock Clerks and Order Fillers,216700,241900,25200,11.6,23210,37830,86240,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",12100,13100,1000,8.3,1150,1710,3860,15.94,33145.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,43-6000,Secretaries and Administrative Assistants,409700,436700,27000,6.6,43380,51360,121740,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,43-6011,Executive Secretaries and Executive Administrative Assistants,71900,73700,1800,2.5,7460,8840,18100,34.65,72077.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,43-6012,Legal Secretaries,25300,25200,-100,-0.4,2590,3060,5550,27.16,56508.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-6013,Medical Secretaries,77900,89800,11900,15.3,8590,10170,30660,20.93,43531.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",234700,248000,13300,5.7,24740,29290,67330,21.48,44668.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,43-9000,Other Office and Administrative Support Workers,464400,491200,26800,5.8,49960,62310,139070,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,43-9011,Computer Operators,3100,3400,300,9.7,310,470,1080,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-9021,Data Entry Keyers,20700,21600,900,4.3,1910,2980,5790,17.40,36187.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-9022,Word Processors and Typists,8400,8100,-300,-3.6,990,1010,1700,22.02,45815.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-9031,Desktop Publishers,1100,1100,0,0.0,90,160,250,28.12,58474.00,Associate's degree,None,Short-term on-the-job training
+State,California,2020-2022,4,43-9041,Insurance Claims and Policy Processing Clerks,40100,40900,800,2.0,2990,5060,8850,21.52,44770.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",6500,6900,400,6.2,640,840,1880,15.35,31936.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-9061,"Office Clerks, General",327500,348600,21100,6.4,37790,43120,102010,18.26,37989.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-9071,"Office Machine Operators, Except Computer",6000,6500,500,8.3,750,840,2090,16.97,35306.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,43-9081,Proofreaders and Copy Markers,1400,1500,100,7.1,180,200,480,21.84,45426.00,Bachelor's degree,None,None
+State,California,2020-2022,4,43-9111,Statistical Assistants,1200,1300,100,8.3,110,210,420,23.68,49256.00,Bachelor's degree,None,None
+State,California,2020-2022,4,43-9199,"Office and Administrative Support Workers, All Other",48400,51300,2900,6.0,4200,7410,14510,18.07,37590.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,2,45-0000,"Farming, Fishing, and Forestry Occupations",300500,333800,33300,11.1,25100,77700,136100,12.73,26475.00,N/A,N/A,N/A
+State,California,2020-2022,3,45-1000,"Supervisors of Farming, Fishing, and Forestry Workers",11800,13100,1300,11.0,900,2770,4970,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",11800,13100,1300,11.0,900,2770,4970,21.44,44585.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,45-2000,Agricultural Workers,283700,315600,31900,11.2,23820,73610,129330,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,45-2011,Agricultural Inspectors,2100,2200,100,4.8,190,450,740,20.49,42617.00,Bachelor's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,45-2041,"Graders and Sorters, Agricultural Products",10000,11000,1000,10.0,840,2220,4060,12.77,26578.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,45-2091,Agricultural Equipment Operators,12700,14600,1900,15.0,1080,3370,6350,14.95,31090.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",240200,267800,27600,11.5,20170,62770,110540,12.55,26104.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",15800,16800,1000,6.3,1300,4040,6340,14.90,30977.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,45-2099,"Agricultural Workers, All Other",2200,2500,300,13.6,190,580,1070,16.12,33542.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,3,45-4000,"Forest, Conservation, and Logging Workers",5000,4900,-100,-2.0,380,1300,1580,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,45-4011,Forest and Conservation Workers,2700,2800,100,3.7,210,770,1080,15.73,32728.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,45-4022,Logging Equipment Operators,1600,1500,-100,-6.3,120,380,400,26.74,55628.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,2,47-0000,Construction and Extraction Occupations,758900,841900,83000,10.9,50770,123620,257390,28.08,58399.00,N/A,N/A,N/A
+State,California,2020-2022,3,47-1000,Supervisors of Construction and Extraction Workers,58900,64500,5600,9.5,3680,9150,18430,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,58900,64500,5600,9.5,3680,9150,18430,39.31,81752.00,High school diploma or equivalent,≥5 years,None
+State,California,2020-2022,3,47-2000,Construction Trades Workers,636600,709600,73000,11.5,42080,102840,217920,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,47-2021,Brickmasons and Blockmasons,4100,4500,400,9.8,250,620,1270,29.46,61273.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2022,Stonemasons,4100,4500,400,9.8,250,610,1260,24.48,50920.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2031,Carpenters,130700,144700,14000,10.7,8610,19890,42500,29.07,60459.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2041,Carpet Installers,6700,8200,1500,22.4,430,1030,2960,22.19,46151.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",3300,4100,800,24.2,210,510,1520,25.53,53104.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2044,Tile and Marble Setters,8800,10200,1400,15.9,540,1310,3250,25.34,52702.00,No formal educational credential,None,Long-term on-the-job training
+State,California,2020-2022,4,47-2051,Cement Masons and Concrete Finishers,23100,25200,2100,9.1,1410,3650,7160,27.34,56864.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2061,Construction Laborers,137900,152300,14400,10.4,9710,22570,46680,22.49,46769.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,47-2071,"Paving, Surfacing, and Tamping Equipment Operators",2800,3000,200,7.1,260,460,920,26.73,55597.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2073,Operating Engineers and Other Construction Equipment Operators,28700,30500,1800,6.3,2010,4810,8620,36.96,76890.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2081,Drywall and Ceiling Tile Installers,30800,35100,4300,14.0,1930,4620,10850,27.37,56936.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2082,Tapers,7400,8400,1000,13.5,460,1110,2570,30.74,63931.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2111,Electricians,69800,78600,8800,12.6,4560,12640,26000,32.00,66548.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2121,Glaziers,6100,6800,700,11.5,420,1060,2180,27.09,56349.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2131,"Insulation Workers, Floor, Ceiling, and Wall",1800,2000,200,11.1,90,350,640,23.00,47840.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,47-2132,"Insulation Workers, Mechanical",1000,1100,100,10.0,50,190,340,0.00,0.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2141,"Painters, Construction and Maintenance",54700,62000,7300,13.3,4040,7780,19120,24.64,51250.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2151,Pipelayers,3500,3700,200,5.7,210,580,990,29.28,60892.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,47-2152,"Plumbers, Pipefitters, and Steamfitters",53200,59300,6100,11.5,3290,9190,18580,28.56,59398.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2161,Plasterers and Stucco Masons,8100,9200,1100,13.6,400,1170,2670,25.07,52156.00,No formal educational credential,None,Long-term on-the-job training
+State,California,2020-2022,4,47-2171,Reinforcing Iron and Rebar Workers,2200,2500,300,13.6,110,450,860,20.45,42535.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2181,Roofers,20400,22800,2400,11.8,1110,3360,6870,26.12,54330.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-2211,Sheet Metal Workers,12000,13100,1100,9.2,740,1980,3820,28.56,59388.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2221,Structural Iron and Steel Workers,9100,10000,900,9.9,530,1720,3150,32.75,68103.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-2231,Solar Photovoltaic Installers,4100,5100,1000,24.4,310,830,2140,23.08,47995.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,47-3000,"Helpers, Construction Trades",18100,20300,2200,12.2,1270,3920,7390,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",3500,3900,400,11.4,250,760,1410,18.75,39001.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,47-3012,Helpers--Carpenters,2500,2800,300,12.0,180,540,1020,18.57,38631.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,47-3013,Helpers--Electricians,4400,4900,500,11.4,310,950,1760,18.37,38208.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1700,2000,300,17.6,120,380,800,17.68,36766.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",2900,3200,300,10.3,200,620,1120,17.71,36838.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,47-3019,"Helpers, Construction Trades, All Other",2200,2500,300,13.6,160,480,940,16.37,34057.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,3,47-4000,Other Construction and Related Workers,34500,36300,1800,5.2,3070,5420,10290,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,47-4011,Construction and Building Inspectors,11000,11400,400,3.6,1230,1540,3170,44.26,92054.00,High school diploma or equivalent,≥5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,47-4021,Elevator Installers and Repairers,2500,2700,200,8.0,180,410,790,43.81,91137.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,47-4031,Fence Erectors,3800,4100,300,7.9,310,620,1230,19.22,39980.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-4041,Hazardous Materials Removal Workers,6700,6900,200,3.0,580,1130,1910,22.89,47624.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-4051,Highway Maintenance Workers,4900,5000,100,2.0,400,700,1200,24.06,50065.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,2600,2700,100,3.8,160,450,710,21.07,43812.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-4090,Miscellaneous Construction and Related Workers,2800,3000,200,7.1,190,530,920,23.14,48128.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,47-5000,Extraction Workers,10800,11200,400,3.7,680,2290,3370,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,47-5012,"Rotary Drill Operators, Oil and Gas",1400,1400,0,0.0,80,310,390,31.50,65528.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-5013,"Service Unit Operators, Oil, Gas, and Mining",2400,2500,100,4.2,140,550,790,27.47,57132.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-5021,"Earth Drillers, Except Oil and Gas",2200,2300,100,4.5,160,440,700,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-5071,"Roustabouts, Oil and Gas",1500,1500,0,0.0,90,310,400,16.22,33748.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,47-5081,Helpers--Extraction Workers,1200,1200,0,0.0,80,240,320,20.59,42834.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,2,49-0000,"Installation, Maintenance, and Repair Occupations",512100,563400,51300,10.0,33860,72460,157620,25.36,52758.00,N/A,N/A,N/A
+State,California,2020-2022,3,49-1000,"Supervisors of Installation, Maintenance, and Repair Workers",36000,39300,3300,9.2,2360,4550,10210,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",36000,39300,3300,9.2,2360,4550,10210,38.53,80144.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,49-2000,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",66400,69300,2900,4.4,3590,10900,17390,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,49-2011,"Computer, Automated Teller, and Office Machine Repairers",10500,11700,1200,11.4,620,1750,3570,20.49,42597.00,"Some college, no degree",None,Short-term on-the-job training
+State,California,2020-2022,4,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",32600,32700,100,0.3,1820,5380,7300,29.97,62336.00,Postsecondary non-degree award,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-2091,Avionics Technicians,1500,1700,200,13.3,70,160,430,37.13,77230.00,Associate's degree,None,None
+State,California,2020-2022,4,49-2092,"Electric Motor, Power Tool, and Related Repairers",1400,1500,100,7.1,100,190,390,23.06,47963.00,High school diploma or equivalent,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",1000,1100,100,10.0,40,150,290,38.78,80675.00,Postsecondary non-degree award,None,Long-term on-the-job training
+State,California,2020-2022,4,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",5800,6100,300,5.2,210,830,1340,30.23,62878.00,Postsecondary non-degree award,None,Long-term on-the-job training
+State,California,2020-2022,4,49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1700,1700,0,0.0,60,240,300,49.03,101979.00,Postsecondary non-degree award,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",1500,1600,100,6.7,80,280,460,18.65,38774.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-2097,Electronic Home Entertainment Equipment Installers and Repairers,1700,1900,200,11.8,90,310,600,22.14,46052.00,Postsecondary non-degree award,None,Short-term on-the-job training
+State,California,2020-2022,4,49-2098,Security and Fire Alarm Systems Installers,7800,8400,600,7.7,460,1490,2550,25.75,53555.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,49-3000,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",144400,166000,21600,15.0,8920,21080,51600,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,49-3011,Aircraft Mechanics and Service Technicians,12600,14000,1400,11.1,710,1460,3570,35.11,73029.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,49-3021,Automotive Body and Related Repairers,12600,15200,2600,20.6,890,1770,5260,25.62,53279.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-3022,Automotive Glass Installers and Repairers,1400,1700,300,21.4,70,220,590,16.16,33621.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-3023,Automotive Service Technicians and Mechanics,62700,73900,11200,17.9,3710,9590,24500,23.10,48055.00,Postsecondary non-degree award,None,Short-term on-the-job training
+State,California,2020-2022,4,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,21200,23200,2000,9.4,1240,2880,6120,27.76,57746.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-3041,Farm Equipment Mechanics and Service Technicians,4100,4500,400,9.8,270,590,1260,21.61,44948.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",11900,12600,700,5.9,770,1680,3150,32.22,67018.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-3051,Motorboat Mechanics and Service Technicians,1300,1600,300,23.1,120,180,600,22.35,46491.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-3052,Motorcycle Mechanics,1100,1500,400,36.4,100,160,660,23.81,49527.00,Postsecondary non-degree award,None,Short-term on-the-job training
+State,California,2020-2022,4,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,1800,2100,300,16.7,150,230,680,18.93,39387.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-3091,Bicycle Repairers,1900,2300,400,21.1,130,330,860,15.90,33059.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-3092,Recreational Vehicle Service Technicians,1500,1900,400,26.7,100,270,770,19.55,40654.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-3093,Tire Repairers and Changers,9400,10600,1200,12.8,610,1600,3410,15.28,31792.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,49-9000,"Other Installation, Maintenance, and Repair Occupations",265300,288800,23500,8.9,18990,35940,78430,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,49-9011,Mechanical Door Repairers,2100,2400,300,14.3,110,270,680,24.17,50253.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",3800,3900,100,2.6,200,470,770,33.74,70197.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",30200,33700,3500,11.6,1740,4500,9740,27.87,57951.00,Postsecondary non-degree award,None,Long-term on-the-job training
+State,California,2020-2022,4,49-9031,Home Appliance Repairers,2600,3000,400,15.4,260,350,1010,22.07,45909.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-9041,Industrial Machinery Mechanics,25100,27300,2200,8.8,1640,3160,7000,29.20,60731.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-9043,"Maintenance Workers, Machinery",6900,7300,400,5.8,540,750,1690,26.44,54986.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-9044,Millwrights,2700,3000,300,11.1,160,340,800,31.81,66170.00,High school diploma or equivalent,None,Apprenticeship
+State,California,2020-2022,4,49-9051,Electrical Power-Line Installers and Repairers,7700,7900,200,2.6,380,930,1510,52.07,108316.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-9052,Telecommunications Line Installers and Repairers,13000,13100,100,0.8,610,2310,3020,32.89,68408.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-9062,Medical Equipment Repairers,5500,5800,300,5.5,490,700,1490,28.64,59586.00,Associate's degree,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-9069,"Precision Instrument and Equipment Repairers, All Other",2000,2100,100,5.0,170,250,520,30.86,64197.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-9071,"Maintenance and Repair Workers, General",120900,132000,11100,9.2,8870,15640,35610,21.46,44621.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",3000,3300,300,10.0,260,480,1040,17.08,35523.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,49-9094,Locksmiths and Safe Repairers,2800,2800,0,0.0,270,340,610,20.93,43537.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,49-9096,Riggers,2100,2300,200,9.5,90,330,620,27.20,56571.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,49-9098,"Helpers--Installation, Maintenance, and Repair Workers",10000,11200,1200,12.0,1130,1580,3910,16.15,33591.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,49-9099,"Installation, Maintenance, and Repair Workers, All Other",21800,23900,2100,9.6,1790,3120,7010,21.39,44478.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,2,51-0000,Production Occupations,754400,814000,59600,7.9,63690,119300,242590,17.56,36519.00,N/A,N/A,N/A
+State,California,2020-2022,3,51-1000,Supervisors of Production Workers,45800,48500,2700,5.9,3000,6650,12350,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-1011,First-Line Supervisors of Production and Operating Workers,45800,48500,2700,5.9,3000,6650,12350,31.59,65713.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,51-2000,Assemblers and Fabricators,146400,160600,14200,9.7,12350,22870,49420,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",3200,3200,0,0.0,130,430,560,23.45,48770.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",37800,38600,800,2.1,3290,5410,9500,18.13,37717.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-2031,Engine and Other Machine Assemblers,1500,1600,100,6.7,70,290,460,17.70,36816.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-2041,Structural Metal Fabricators and Fitters,5800,6000,200,3.4,290,950,1440,19.74,41057.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-2091,Fiberglass Laminators and Fabricators,1200,1300,100,8.3,100,190,390,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-2098,"Assemblers and Fabricators, All Other, Including Team Assemblers",96100,109100,13000,13.5,8400,15500,36900,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,51-3000,Food Processing Workers,81600,88000,6400,7.8,8640,13940,28980,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-3011,Bakers,22300,25000,2700,12.1,2730,3720,9150,14.87,30946.00,No formal educational credential,None,Long-term on-the-job training
+State,California,2020-2022,4,51-3021,Butchers and Meat Cutters,19700,20200,500,2.5,1640,3300,5440,15.31,31858.00,No formal educational credential,None,Long-term on-the-job training
+State,California,2020-2022,4,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",6400,6800,400,6.3,540,1090,2030,13.85,28795.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,51-3023,Slaughterers and Meat Packers,5000,5300,300,6.0,420,850,1570,13.92,28959.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1600,1700,100,6.3,180,270,550,16.06,33415.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-3092,Food Batchmakers,16300,17400,1100,6.7,2030,2960,6090,14.49,30147.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-3093,Food Cooking Machine Operators and Tenders,4700,5400,700,14.9,650,930,2280,15.67,32596.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-3099,"Food Processing Workers, All Other",5600,6300,700,12.5,450,820,1970,14.56,30270.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,3,51-4000,Metal Workers and Plastic Workers,134600,139300,4700,3.5,8820,20480,34000,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic",11400,11800,400,3.5,670,1720,2790,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4012,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",2400,2500,100,4.2,140,360,600,0.00,0.00,Postsecondary non-degree award,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",3800,3700,-100,-2.6,210,720,830,15.65,32565.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1700,1600,-100,-5.9,90,220,210,19.04,39612.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1400,1300,-100,-7.1,70,180,150,18.90,39305.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",10900,11100,200,1.8,830,1620,2650,17.87,37164.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1600,1600,0,0.0,110,220,330,18.27,38014.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",7900,7900,0,0.0,670,1130,1800,17.35,36099.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3200,3300,100,3.1,310,420,830,21.60,44929.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",1900,1900,0,0.0,130,260,390,19.10,39746.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4041,Machinists,33900,35700,1800,5.3,2310,4760,8870,22.39,46578.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",7100,7100,0,0.0,440,1120,1560,17.30,35976.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",4600,4800,200,4.3,330,660,1190,17.61,36611.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4111,Tool and Die Makers,2400,2500,100,4.2,180,310,590,29.29,60930.00,Postsecondary non-degree award,None,Long-term on-the-job training
+State,California,2020-2022,4,51-4121,"Welders, Cutters, Solderers, and Brazers",27000,28900,1900,7.0,1430,4700,8030,21.90,45564.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",3400,3400,0,0.0,170,570,740,19.38,40309.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1100,1100,0,0.0,80,160,240,19.19,39910.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",4300,4200,-100,-2.3,260,650,810,17.46,36314.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4194,"Tool Grinders, Filers, and Sharpeners",1000,1100,100,10.0,150,150,400,19.45,40463.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-4199,"Metal Workers and Plastic Workers, All Other",1500,1700,200,13.3,110,220,530,17.25,35874.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,51-5100,Printing Workers,16500,17700,1200,7.3,1460,2480,5140,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-5111,Prepress Technicians and Workers,2200,2300,100,4.5,170,390,660,20.37,42378.00,Postsecondary non-degree award,None,None
+State,California,2020-2022,4,51-5112,Printing Press Operators,11600,12400,800,6.9,910,1680,3390,18.42,38301.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-5113,Print Binding and Finishing Workers,2700,2900,200,7.4,380,410,990,16.74,34818.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,51-6000,"Textile, Apparel, and Furnishings Workers",49100,58600,9500,19.3,6500,6650,22650,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-6011,Laundry and Dry-Cleaning Workers,14200,16700,2500,17.6,1930,2210,6640,13.93,28979.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,51-6021,"Pressers, Textile, Garment, and Related Materials",5300,6000,700,13.2,610,710,2020,13.52,28129.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,51-6031,Sewing Machine Operators,15100,19200,4100,27.2,2000,1840,7940,13.03,27115.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,51-6041,Shoe and Leather Workers and Repairers,1300,1500,200,15.4,200,130,530,16.37,34060.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-6051,"Sewers, Hand",1200,1600,400,33.3,230,150,780,15.56,32360.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-6052,"Tailors, Dressmakers, and Custom Sewers",3300,4200,900,27.3,620,380,1900,23.46,48801.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,1200,900,-300,-25.0,120,170,-10,13.84,28795.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",1000,1000,0,0.0,110,160,270,17.52,36427.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-6093,Upholsterers,2400,2600,200,8.3,210,310,720,18.05,37543.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-6099,"Textile, Apparel, and Furnishings Workers, All Other",1300,1500,200,15.4,160,220,580,14.18,29492.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,51-7000,Woodworkers,19400,20600,1200,6.2,1780,2810,5790,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-7011,Cabinetmakers and Bench Carpenters,10000,10500,500,5.0,860,1260,2620,17.58,36560.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-7021,Furniture Finishers,1400,1500,100,7.1,140,180,420,15.35,31909.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",2800,2900,100,3.6,160,490,750,15.01,31213.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",4000,4200,200,5.0,440,700,1340,15.75,32780.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-7099,"Woodworkers, All Other",1200,1300,100,8.3,160,150,410,18.07,37584.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,51-8000,Plant and System Operators,27500,27400,-100,-0.4,1490,3930,5320,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-8012,Power Distributors and Dispatchers,1100,1100,0,0.0,50,150,200,44.67,92921.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,51-8013,Power Plant Operators,3600,3600,0,0.0,150,520,670,46.90,97541.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,51-8021,Stationary Engineers and Boiler Operators,3000,3100,100,3.3,200,450,750,41.05,85371.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,51-8031,Water and Wastewater Treatment Plant and System Operators,11600,11600,0,0.0,710,1390,2100,35.62,74083.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,51-8091,Chemical Plant and System Operators,1200,1200,0,0.0,60,210,270,26.95,56054.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",4400,4300,-100,-2.3,210,760,870,44.26,92060.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-8099,"Plant and System Operators, All Other",1500,1500,0,0.0,70,270,340,34.02,70764.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,51-9000,Other Production Occupations,233600,253200,19600,8.4,19660,39500,78760,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,51-9011,Chemical Equipment Operators and Tenders,2400,2500,100,4.2,120,430,650,24.42,50799.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",8200,9500,1300,15.9,450,1590,3340,22.99,47818.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2800,2900,100,3.6,170,500,770,16.12,33528.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9022,"Grinding and Polishing Workers, Hand",3400,3400,0,0.0,210,590,800,15.96,33190.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",13000,13900,900,6.9,810,2320,4030,18.46,38393.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9031,"Cutters and Trimmers, Hand",1000,1100,100,10.0,90,170,360,16.01,33302.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",4700,5100,400,8.5,410,800,1610,17.77,36959.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",4300,4500,200,4.7,340,610,1150,17.64,36683.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",53000,54700,1700,3.2,4280,9000,14980,20.12,41835.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9071,Jewelers and Precious Stone and Metal Workers,4000,4800,800,20.0,530,590,1920,20.09,41784.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,51-9081,Dental Laboratory Technicians,4300,4900,600,14.0,410,730,1740,20.12,41856.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9082,Medical Appliance Technicians,2000,2200,200,10.0,190,330,720,24.91,51813.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9083,Ophthalmic Laboratory Technicians,2200,2400,200,9.1,200,360,760,17.17,35699.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9111,Packaging and Filling Machine Operators and Tenders,42900,47500,4600,10.7,3990,6510,15100,14.83,30854.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",5900,6100,200,3.4,360,940,1500,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9122,"Painters, Transportation Equipment",5700,6800,1100,19.3,380,990,2470,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9123,"Painting, Coating, and Decorating Workers",1500,1600,100,6.7,90,240,430,15.95,33169.00,No formal educational credential,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9141,Semiconductor Processors,3700,3600,-100,-2.7,270,570,740,18.21,37881.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9151,Photographic Process Workers and Processing Machine Operators,2000,2500,500,25.0,200,490,1190,17.57,36539.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,51-9191,Adhesive Bonding Machine Operators and Tenders,1000,1000,0,0.0,70,190,260,16.02,33323.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",1900,2000,100,5.3,250,360,710,17.06,35484.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9193,Cooling and Freezing Equipment Operators and Tenders,1000,1100,100,10.0,80,160,340,15.79,32821.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",4900,5200,300,6.1,400,720,1420,17.88,37185.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,51-9196,"Paper Goods Machine Setters, Operators, and Tenders",5200,5500,300,5.8,330,830,1460,17.90,37226.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,51-9198,Helpers--Production Workers,25900,28100,2200,8.5,2870,5080,10150,14.31,29768.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,51-9199,"Production Workers, All Other",24800,28400,3600,14.5,1990,4170,9760,14.59,30332.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,2,53-0000,Transportation and Material Moving Occupations,1116900,1280000,163100,14.6,110760,193650,467510,16.48,34260.00,N/A,N/A,N/A
+State,California,2020-2022,3,53-1000,Supervisors of Transportation and Material Moving Workers,42900,49100,6200,14.5,2920,6890,16010,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,53-1011,Aircraft Cargo Handling Supervisors,1000,1200,200,20.0,70,160,430,0.00,0.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,4,53-1048,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling",41900,47900,6000,14.3,2850,6730,15580,0.00,0.00,High school diploma or equivalent,<5 years,None
+State,California,2020-2022,3,53-2000,Air Transportation Workers,31900,35100,3200,10.0,2630,4470,10300,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,53-2011,"Airline Pilots, Copilots, and Flight Engineers",9100,10100,1000,11.0,530,1410,2940,0.00,212322.00,Bachelor's degree,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,53-2012,Commercial Pilots,3600,3800,200,5.6,210,550,960,0.00,95024.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,53-2021,Air Traffic Controllers,2500,2600,100,4.0,120,350,570,70.92,147514.00,Associate's degree,None,Long-term on-the-job training
+State,California,2020-2022,4,53-2022,Airfield Operations Specialists,1300,1500,200,15.4,70,200,470,28.44,59157.00,High school diploma or equivalent,None,Long-term on-the-job training
+State,California,2020-2022,4,53-2031,Flight Attendants,15400,17200,1800,11.7,1710,1960,5470,0.00,59198.00,High school diploma or equivalent,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,3,53-3000,Motor Vehicle Operators,396900,447300,50400,12.7,40740,56720,147860,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",1200,1300,100,8.3,140,240,480,15.62,32477.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,53-3021,"Bus Drivers, Transit and Intercity",27500,28100,600,2.2,4320,2700,7620,0.00,0.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,53-3022,"Bus Drivers, School or Special Client",28200,28900,700,2.5,4430,2770,7900,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,53-3031,Driver/Sales Workers,32100,37600,5500,17.1,2870,5050,13420,15.93,33130.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,53-3032,Heavy and Tractor-Trailer Truck Drivers,140900,157400,16500,11.7,12280,21630,50410,23.35,48580.00,Postsecondary non-degree award,None,Short-term on-the-job training
+State,California,2020-2022,4,53-3033,Light Truck or Delivery Services Drivers,114400,135600,21200,18.5,10290,18130,49620,19.29,40119.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,53-3041,Taxi Drivers and Chauffeurs,48200,53300,5100,10.6,5450,5550,16100,0.00,0.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,3,53-4000,Rail Transportation Workers,5000,5200,200,4.0,310,690,1200,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,53-4031,Railroad Conductors and Yardmasters,1200,1300,100,8.3,50,190,340,35.90,74669.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,53-4041,Subway and Streetcar Operators,1000,1000,0,0.0,80,120,200,29.13,60588.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,3,53-5000,Water Transportation Workers,9800,10900,1100,11.2,590,1710,3400,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,3,53-6000,Other Transportation Workers,34800,43600,8800,25.3,3920,6900,19620,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,53-6021,Parking Lot Attendants,14700,20900,6200,42.2,1830,3610,11640,13.85,28816.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-6031,Automotive and Watercraft Service Attendants,6500,7800,1300,20.0,640,1480,3420,14.76,30683.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-6051,Transportation Inspectors,3600,3800,200,5.6,230,520,950,37.86,78745.00,High school diploma or equivalent,None,Moderate-term on-the-job training
+State,California,2020-2022,4,53-6061,"Transportation Attendants, Except Flight Attendants",5500,6000,500,9.1,900,610,2010,13.87,28858.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,4,53-6099,"Transportation Workers, All Other",3700,4100,400,10.8,270,550,1220,0.00,0.00,High school diploma or equivalent,None,Short-term on-the-job training
+State,California,2020-2022,3,53-7000,Material Moving Workers,595700,688800,93100,15.6,59650,116260,269010,0.00,0.00,N/A,N/A,N/A
+State,California,2020-2022,4,53-7011,Conveyor Operators and Tenders,2100,2500,400,19.0,160,390,950,17.57,36531.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-7021,Crane and Tower Operators,3300,3500,200,6.1,220,580,1000,34.21,71154.00,High school diploma or equivalent,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,53-7032,Excavating and Loading Machine and Dragline Operators,2800,2900,100,3.6,210,470,780,0.00,0.00,High school diploma or equivalent,<5 years,Moderate-term on-the-job training
+State,California,2020-2022,4,53-7051,Industrial Truck and Tractor Operators,60100,69100,9000,15.0,3870,10670,23540,18.37,38221.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-7061,Cleaners of Vehicles and Equipment,51500,60700,9200,17.9,5590,10750,25540,13.92,28951.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",347400,409800,62400,18.0,34200,70980,167580,15.17,31554.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-7063,Machine Feeders and Offbearers,7400,8100,700,9.5,780,1260,2740,15.57,32383.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-7064,"Packers and Packagers, Hand",94200,102900,8700,9.2,11790,16610,37100,13.20,27458.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-7081,Refuse and Recyclable Material Collectors,14600,15100,500,3.4,1620,2480,4600,27.31,56813.00,No formal educational credential,None,Short-term on-the-job training
+State,California,2020-2022,4,53-7199,"Material Moving Workers, All Other",10500,12300,1800,17.1,1090,1780,4670,14.53,30227.00,No formal educational credential,None,Short-term on-the-job training
