@@ -22,7 +22,7 @@ Exception:
 b) In most cases the numerical values are % of populations, this is just a simple and reasonable way to just look at the proportions of the populations represented or unrepresented and also good to see trends.  So just took % versus doing totals AND %.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-Question 1 & corresponding CSV datasets:
+## Question 1 & corresponding CSV datasets:
 
 1a) What are the demographic factors that show a statistical relationship with unemployment amongst city residents? 
 
@@ -55,7 +55,7 @@ Number of individuals in the labor force and not in the labor force by education
 
 Question 2 & corresponding CSV datasets:
 
-2a) Who works in skilled occupations, and which categories of people are least represented in these occupations? 
+## 2a) Who works in skilled occupations, and which categories of people are least represented in these occupations? 
 
 ### “INDUSTRYEmploymentbyGender” & “OCCUPATIONEmploymentbyGender”
 
