@@ -61,3 +61,7 @@ Number of individuals in the labor force and not in the labor force by education
 ### “INDUSTRYEmploymentbyGender” & “OCCUPATIONEmploymentbyGender”
 
 Employment % is dichotomized between Male & Female, at the level of Industry and Occupation
+
+2b) Still.... working on this one:
+What trends do we see and how might we interpret these trends?
+
