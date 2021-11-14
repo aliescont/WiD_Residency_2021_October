@@ -54,9 +54,9 @@ This dataset could potentially answer Question 1b – What positions show a high
 
 Number of individuals in the labor force and not in the labor force by education level and the language they speak at home.
 
-Question 2 & corresponding CSV datasets:
+## Question 2 & corresponding CSV datasets:
 
-## 2a) Who works in skilled occupations, and which categories of people are least represented in these occupations? 
+2a) Who works in skilled occupations, and which categories of people are least represented in these occupations? 
 
 ### “INDUSTRYEmploymentbyGender” & “OCCUPATIONEmploymentbyGender”
 
