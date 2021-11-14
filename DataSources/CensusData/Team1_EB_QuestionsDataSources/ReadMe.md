@@ -11,7 +11,7 @@ Link: https://data.census.gov/cedsci/table?q=Rancho%20Cordova%20city,%20Californ
 - 3_CensusData_Occupation&IndustrybyGender_EB_Team1
 Link: https://data.census.gov/cedsci/table?q=Rancho%20Cordova%20city,%20California%20Employment&tid=ACSST1Y2019.S2401 (1 year estimates on all three years)
 
-All Data contains only 3 years’ worth of data 
+(a) All Data contains only 3 years’ worth of data 
 
 3 – Years: 2017 through 2019
 
@@ -19,7 +19,8 @@ Reason:  I believe it’s reasonable to look at the last 3 years before the pand
 Exception:
 
 -	If we need to look for trends in specificity, we can go back and pull more years around a set of data/collection points.  This can remain an option
-b) In most cases the numerical values are % of populations, this is just a simple and reasonable way to just look at the proportions of the populations represented or unrepresented and also good to see trends.  So just took % versus doing totals AND %.
+
+(b) In most cases the numerical values are % of populations, this is just a simple and reasonable way to just look at the proportions of the populations represented or unrepresented and also good to see trends.  So just took % versus doing totals AND %.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
