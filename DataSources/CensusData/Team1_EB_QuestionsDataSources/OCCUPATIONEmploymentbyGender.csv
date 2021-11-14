@@ -1,0 +1,51 @@
+﻿Year,Occupation,Category,Subcategory,%Male,%Female
+2019,"Management, business, science, and arts ","Management, business, and financial ",Management ,54.9,45.1
+2019,"Management, business, science, and arts ","Management, business, and financial ",Business and financial operations ,28.7,71.3
+2019,"Management, business, science, and arts ","Computer, engineering, and science ",Computer and mathematical ,64.3,35.7
+2019,"Management, business, science, and arts ","Computer, engineering, and science ",Architecture and engineering ,70.5,29.5
+2019,"Management, business, science, and arts ","Computer, engineering, and science ","Life, physical, and social science ",70.8,29.2
+2019,"Management, business, science, and arts ","Education, legal, community service, arts, and media ",Community and social service ,18,82
+2019,"Management, business, science, and arts ","Education, legal, community service, arts, and media ",Legal ,45.1,54.9
+2019,"Management, business, science, and arts ","Education, legal, community service, arts, and media ","Educational instruction, and library ",11.6,88.4
+2019,"Management, business, science, and arts ","Education, legal, community service, arts, and media ","Arts, design, entertainment, sports, and media ",42.4,57.6
+2019,"Management, business, science, and arts ",Healthcare practitioners and technical ,Health diagnosing and treating practitioners and other technical ,27.7,72.3
+2019,"Management, business, science, and arts ",Healthcare practitioners and technical ,Health technologists and technicians,14.3,85.7
+2019,Service ,Healthcare support ,Healthcare support ,14.1,85.9
+2019,Service ,Protective service ,"Firefighting and prevention, and other protective service workers including supervisors",100,0
+2019,Service ,Protective service ,Law enforcement workers including supervisors,62,38
+2019,Service ,Food preparation and serving related ,Food preparation and serving related ,53.8,46.2
+2019,Service ,Building and grounds cleaning and maintenance ,Building and grounds cleaning and maintenance ,56.4,43.6
+2019,Service ,Personal care and service ,Personal care and service ,32.2,67.8
+2019,Service ,Sales and office ,Sales and related ,47.4,52.6
+2019,Service ,Sales and office ,Office and administrative support ,32.3,67.7
+2019,"Natural resources, construction, and maintenance ","Farming, fishing, and forestry ","Farming, fishing, and forestry ",100,0
+2019,"Natural resources, construction, and maintenance ",Construction and extraction ,Construction and extraction ,96.9,3.1
+2019,"Natural resources, construction, and maintenance ","Installation, maintenance, and repair ","Installation, maintenance, and repair ",100,0
+2019,"Production, transportation, and material moving ",Production ,Production ,76.4,23.6
+2019,"Production, transportation, and material moving ",Transportation ,Transportation ,96.9,3.1
+2019,"Production, transportation, and material moving ",Material moving ,Material moving ,66.8,33.2
+2018,"Management, business, science, and arts ","Management, business, and financial ", Management ,51.5,48.5
+2018,"Management, business, science, and arts ","Management, business, and financial ", Business and financial operations ,44.3,55.7
+2018,"Management, business, science, and arts ","Computer, engineering, and science ", Computer and mathematical ,77.5,22.5
+2018,"Management, business, science, and arts ","Computer, engineering, and science ", Architecture and engineering ,84.2,15.8
+2018,"Management, business, science, and arts ","Computer, engineering, and science "," Life, physical, and social science ",47.9,52.1
+2018,"Management, business, science, and arts ","Education, legal, community service, arts, and media ", Community and social service ,47.5,52.5
+2018,"Management, business, science, and arts ","Education, legal, community service, arts, and media ", Legal ,0,0
+2018,"Management, business, science, and arts ","Education, legal, community service, arts, and media "," Educational instruction, and library ",32,68
+2018,"Management, business, science, and arts ","Education, legal, community service, arts, and media "," Arts, design, entertainment, sports, and media ",57,43
+2018,"Management, business, science, and arts ",Healthcare practitioners and technical , Health diagnosing and treating practitioners and other technical ,22.6,77.4
+2018,"Management, business, science, and arts ",Healthcare practitioners and technical , Health technologists and technicians,7.5,92.5
+2018,Service ,Healthcare support , Healthcare support ,29.8,70.2
+2018,Service ,Protective service ," Firefighting and prevention, and other protective service workers including supervisors",100,0
+2018,Service ,Protective service , Law enforcement workers including supervisors,100,0
+2018,Service ,Food preparation and serving related ,Food preparation and serving related ,56.4,43.6
+2018,Service ,Building and grounds cleaning and maintenance ,Building and grounds cleaning and maintenance ,29.5,70.5
+2018,Service ,Personal care and service ,Personal care and service ,6.4,93.6
+2018,Service ,Sales and office ,Sales and related ,48.9,51.1
+2018,Service ,Sales and office ,Office and administrative support ,28.2,71.8
+2018,"Natural resources, construction, and maintenance ","Farming, fishing, and forestry ","Farming, fishing, and forestry ",0,0
+2018,"Natural resources, construction, and maintenance ",Construction and extraction ,Construction and extraction ,92.3,7.7
+2018,"Natural resources, construction, and maintenance ","Installation, maintenance, and repair ","Installation, maintenance, and repair ",100,0
+2018,"Production, transportation, and material moving ",Production ,Production ,83.4,16.6
+2018,"Production, transportation, and material moving ",Transportation ,Transportation ,93.9,6.1
+2018,"Production, transportation, and material moving ",Material moving ,Material moving ,82.5,17.5
