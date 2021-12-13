@@ -1,148 +1,134 @@
-,occupations_nor,Total,Male,Female,2010 SOC Code,Major_group,O*NET-SOC Code,Title,Element ID,SOC_group,Minor_group,broad_occupation,detailed_occupation,Element_ID_group
-0,management occupations,2036,1107,929,11-0000,11,11-1011.00,Chief Executives,2.A.1.a,1011,1,01,1,2.A.1
-1,management occupations,2036,1107,929,11-0000,11,11-1011.00,Chief Executives,2.A.2.a,1011,1,01,1,2.A.2
-2,management occupations,2036,1107,929,11-0000,11,11-1011.00,Chief Executives,2.B.1.a,1011,1,01,1,2.B.1
-3,management occupations,2036,1107,929,11-0000,11,11-1011.00,Chief Executives,2.B.2.i,1011,1,01,1,2.B.2
-4,management occupations,2036,1107,929,11-0000,11,11-1011.00,Chief Executives,2.B.3.a,1011,1,01,1,2.B.3
-5,management occupations,2036,1107,929,11-0000,11,11-1011.00,Chief Executives,2.B.4.e,1011,1,01,1,2.B.4
-6,management occupations,2036,1107,929,11-0000,11,11-1011.00,Chief Executives,2.B.5.a,1011,1,01,1,2.B.5
-350,business and financial operations occupations,1232,327,905,13-0000,13,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.A.1.a,1011,1,01,1,2.A.1
-351,business and financial operations occupations,1232,327,905,13-0000,13,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.A.2.a,1011,1,01,1,2.A.2
-352,business and financial operations occupations,1232,327,905,13-0000,13,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.B.1.a,1011,1,01,1,2.B.1
-353,business and financial operations occupations,1232,327,905,13-0000,13,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.B.2.i,1011,1,01,1,2.B.2
-354,business and financial operations occupations,1232,327,905,13-0000,13,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.B.3.a,1011,1,01,1,2.B.3
-355,business and financial operations occupations,1232,327,905,13-0000,13,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.B.4.e,1011,1,01,1,2.B.4
-356,business and financial operations occupations,1232,327,905,13-0000,13,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.B.5.a,1011,1,01,1,2.B.5
-651,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1211.00,Computer Systems Analysts,2.A.1.a,1211,1,21,1,2.A.1
-652,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1211.00,Computer Systems Analysts,2.A.2.a,1211,1,21,1,2.A.2
-653,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1211.00,Computer Systems Analysts,2.B.1.a,1211,1,21,1,2.B.1
-654,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1211.00,Computer Systems Analysts,2.B.2.i,1211,1,21,1,2.B.2
-655,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1211.00,Computer Systems Analysts,2.B.3.a,1211,1,21,1,2.B.3
-656,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1211.00,Computer Systems Analysts,2.B.4.e,1211,1,21,1,2.B.4
-657,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1211.00,Computer Systems Analysts,2.B.5.a,1211,1,21,1,2.B.5
-854,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.A.1.a,1011,1,01,1,2.A.1
-855,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.A.2.a,1011,1,01,1,2.A.2
-856,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.1.a,1011,1,01,1,2.B.1
-857,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.2.i,1011,1,01,1,2.B.2
-858,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.3.a,1011,1,01,1,2.B.3
-859,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.4.e,1011,1,01,1,2.B.4
-860,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.5.a,1011,1,01,1,2.B.5
-1239,life physical and social science occupations,578,433,145,19-0000,19,19-1011.00,Animal Scientists,2.A.1.a,1011,1,01,1,2.A.1
-1240,life physical and social science occupations,578,433,145,19-0000,19,19-1011.00,Animal Scientists,2.A.2.a,1011,1,01,1,2.A.2
-1241,life physical and social science occupations,578,433,145,19-0000,19,19-1011.00,Animal Scientists,2.B.1.a,1011,1,01,1,2.B.1
-1242,life physical and social science occupations,578,433,145,19-0000,19,19-1011.00,Animal Scientists,2.B.2.i,1011,1,01,1,2.B.2
-1243,life physical and social science occupations,578,433,145,19-0000,19,19-1011.00,Animal Scientists,2.B.3.a,1011,1,01,1,2.B.3
-1244,life physical and social science occupations,578,433,145,19-0000,19,19-1011.00,Animal Scientists,2.B.4.e,1011,1,01,1,2.B.4
-1245,life physical and social science occupations,578,433,145,19-0000,19,19-1011.00,Animal Scientists,2.B.5.a,1011,1,01,1,2.B.5
-1638,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.A.1.a,1011,1,01,1,2.A.1
-1639,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.A.2.a,1011,1,01,1,2.A.2
-1640,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.1.a,1011,1,01,1,2.B.1
-1641,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.2.i,1011,1,01,1,2.B.2
-1642,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.3.a,1011,1,01,1,2.B.3
-1643,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.4.e,1011,1,01,1,2.B.4
-1644,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.5.a,1011,1,01,1,2.B.5
-1736,legal occupations,351,180,171,23-0000,23,23-1011.00,Lawyers,2.A.1.a,1011,1,01,1,2.A.1
-1737,legal occupations,351,180,171,23-0000,23,23-1011.00,Lawyers,2.A.2.a,1011,1,01,1,2.A.2
-1738,legal occupations,351,180,171,23-0000,23,23-1011.00,Lawyers,2.B.1.a,1011,1,01,1,2.B.1
-1739,legal occupations,351,180,171,23-0000,23,23-1011.00,Lawyers,2.B.2.i,1011,1,01,1,2.B.2
-1740,legal occupations,351,180,171,23-0000,23,23-1011.00,Lawyers,2.B.3.a,1011,1,01,1,2.B.3
-1741,legal occupations,351,180,171,23-0000,23,23-1011.00,Lawyers,2.B.4.e,1011,1,01,1,2.B.4
-1742,legal occupations,351,180,171,23-0000,23,23-1011.00,Lawyers,2.B.5.a,1011,1,01,1,2.B.5
-1785,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1011.00,Art Directors,2.A.1.a,1011,1,01,1,2.A.1
-1786,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1011.00,Art Directors,2.A.2.a,1011,1,01,1,2.A.2
-1787,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1011.00,Art Directors,2.B.1.a,1011,1,01,1,2.B.1
-1788,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1011.00,Art Directors,2.B.2.i,1011,1,01,1,2.B.2
-1789,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1011.00,Art Directors,2.B.3.a,1011,1,01,1,2.B.3
-1790,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1011.00,Art Directors,2.B.4.e,1011,1,01,1,2.B.4
-1791,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1011.00,Art Directors,2.B.5.a,1011,1,01,1,2.B.5
-2051,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1011.00,Chiropractors,2.A.1.a,1011,1,01,1,2.A.1
-2052,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1011.00,Chiropractors,2.A.2.a,1011,1,01,1,2.A.2
-2053,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1011.00,Chiropractors,2.B.1.a,1011,1,01,1,2.B.1
-2054,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1011.00,Chiropractors,2.B.2.i,1011,1,01,1,2.B.2
-2055,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1011.00,Chiropractors,2.B.3.a,1011,1,01,1,2.B.3
-2056,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1011.00,Chiropractors,2.B.4.e,1011,1,01,1,2.B.4
-2057,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1011.00,Chiropractors,2.B.5.a,1011,1,01,1,2.B.5
-2597,healthcare support occupations,627,154,473,31-0000,31,31-1121.00,Home Health Aides,2.A.1.a,1121,1,12,1,2.A.1
-2598,healthcare support occupations,627,154,473,31-0000,31,31-1121.00,Home Health Aides,2.A.2.a,1121,1,12,1,2.A.2
-2599,healthcare support occupations,627,154,473,31-0000,31,31-1121.00,Home Health Aides,2.B.1.a,1121,1,12,1,2.B.1
-2600,healthcare support occupations,627,154,473,31-0000,31,31-1121.00,Home Health Aides,2.B.2.i,1121,1,12,1,2.B.2
-2601,healthcare support occupations,627,154,473,31-0000,31,31-1121.00,Home Health Aides,2.B.3.a,1121,1,12,1,2.B.3
-2602,healthcare support occupations,627,154,473,31-0000,31,31-1121.00,Home Health Aides,2.B.4.e,1121,1,12,1,2.B.4
-2603,healthcare support occupations,627,154,473,31-0000,31,31-1121.00,Home Health Aides,2.B.5.a,1121,1,12,1,2.B.5
-2730,protective service occupations,664,542,122,33-0000,33,33-1011.00,First-Line Supervisors of Correctional Officers,2.A.1.a,1011,1,01,1,2.A.1
-2731,protective service occupations,664,542,122,33-0000,33,33-1011.00,First-Line Supervisors of Correctional Officers,2.A.2.a,1011,1,01,1,2.A.2
-2732,protective service occupations,664,542,122,33-0000,33,33-1011.00,First-Line Supervisors of Correctional Officers,2.B.1.a,1011,1,01,1,2.B.1
-2733,protective service occupations,664,542,122,33-0000,33,33-1011.00,First-Line Supervisors of Correctional Officers,2.B.2.i,1011,1,01,1,2.B.2
-2734,protective service occupations,664,542,122,33-0000,33,33-1011.00,First-Line Supervisors of Correctional Officers,2.B.3.a,1011,1,01,1,2.B.3
-2735,protective service occupations,664,542,122,33-0000,33,33-1011.00,First-Line Supervisors of Correctional Officers,2.B.4.e,1011,1,01,1,2.B.4
-2736,protective service occupations,664,542,122,33-0000,33,33-1011.00,First-Line Supervisors of Correctional Officers,2.B.5.a,1011,1,01,1,2.B.5
-2898,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.A.1.a,1011,1,01,1,2.A.1
-2899,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.A.2.a,1011,1,01,1,2.A.2
-2900,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.1.a,1011,1,01,1,2.B.1
-2901,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.2.i,1011,1,01,1,2.B.2
-2902,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.3.a,1011,1,01,1,2.B.3
-2903,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.4.e,1011,1,01,1,2.B.4
-2904,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.5.a,1011,1,01,1,2.B.5
-3010,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,2.A.1.a,1011,1,01,1,2.A.1
-3011,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,2.A.2.a,1011,1,01,1,2.A.2
-3012,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,2.B.1.a,1011,1,01,1,2.B.1
-3013,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,2.B.2.i,1011,1,01,1,2.B.2
-3014,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,2.B.3.a,1011,1,01,1,2.B.3
-3015,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,2.B.4.e,1011,1,01,1,2.B.4
-3016,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,2.B.5.a,1011,1,01,1,2.B.5
-3066,personal care and service occupations,300,39,261,39-0000,39,39-1013.00,First-Line Supervisors of Gambling Services Workers,2.A.1.a,1013,1,01,3,2.A.1
-3067,personal care and service occupations,300,39,261,39-0000,39,39-1013.00,First-Line Supervisors of Gambling Services Workers,2.A.2.a,1013,1,01,3,2.A.2
-3068,personal care and service occupations,300,39,261,39-0000,39,39-1013.00,First-Line Supervisors of Gambling Services Workers,2.B.1.a,1013,1,01,3,2.B.1
-3069,personal care and service occupations,300,39,261,39-0000,39,39-1013.00,First-Line Supervisors of Gambling Services Workers,2.B.2.i,1013,1,01,3,2.B.2
-3070,personal care and service occupations,300,39,261,39-0000,39,39-1013.00,First-Line Supervisors of Gambling Services Workers,2.B.3.a,1013,1,01,3,2.B.3
-3071,personal care and service occupations,300,39,261,39-0000,39,39-1013.00,First-Line Supervisors of Gambling Services Workers,2.B.4.e,1013,1,01,3,2.B.4
-3072,personal care and service occupations,300,39,261,39-0000,39,39-1013.00,First-Line Supervisors of Gambling Services Workers,2.B.5.a,1013,1,01,3,2.B.5
-3269,sales and related occupations,2188,1184,1004,41-0000,41,41-1011.00,First-Line Supervisors of Retail Sales Workers,2.A.1.a,1011,1,01,1,2.A.1
-3270,sales and related occupations,2188,1184,1004,41-0000,41,41-1011.00,First-Line Supervisors of Retail Sales Workers,2.A.2.a,1011,1,01,1,2.A.2
-3271,sales and related occupations,2188,1184,1004,41-0000,41,41-1011.00,First-Line Supervisors of Retail Sales Workers,2.B.1.a,1011,1,01,1,2.B.1
-3272,sales and related occupations,2188,1184,1004,41-0000,41,41-1011.00,First-Line Supervisors of Retail Sales Workers,2.B.2.i,1011,1,01,1,2.B.2
-3273,sales and related occupations,2188,1184,1004,41-0000,41,41-1011.00,First-Line Supervisors of Retail Sales Workers,2.B.3.a,1011,1,01,1,2.B.3
-3274,sales and related occupations,2188,1184,1004,41-0000,41,41-1011.00,First-Line Supervisors of Retail Sales Workers,2.B.4.e,1011,1,01,1,2.B.4
-3275,sales and related occupations,2188,1184,1004,41-0000,41,41-1011.00,First-Line Supervisors of Retail Sales Workers,2.B.5.a,1011,1,01,1,2.B.5
-3416,office and administrative support occupations,3468,1175,2293,43-0000,43,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,2.A.1.a,1011,1,01,1,2.A.1
-3417,office and administrative support occupations,3468,1175,2293,43-0000,43,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,2.A.2.a,1011,1,01,1,2.A.2
-3418,office and administrative support occupations,3468,1175,2293,43-0000,43,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,2.B.1.a,1011,1,01,1,2.B.1
-3419,office and administrative support occupations,3468,1175,2293,43-0000,43,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,2.B.2.i,1011,1,01,1,2.B.2
-3420,office and administrative support occupations,3468,1175,2293,43-0000,43,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,2.B.3.a,1011,1,01,1,2.B.3
-3421,office and administrative support occupations,3468,1175,2293,43-0000,43,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,2.B.4.e,1011,1,01,1,2.B.4
-3422,office and administrative support occupations,3468,1175,2293,43-0000,43,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,2.B.5.a,1011,1,01,1,2.B.5
-3773,farming fishing and forestry occupations,0,0,0,45-0000,45,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.A.1.a,1011,1,01,1,2.A.1
-3774,farming fishing and forestry occupations,0,0,0,45-0000,45,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.A.2.a,1011,1,01,1,2.A.2
-3775,farming fishing and forestry occupations,0,0,0,45-0000,45,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.B.1.a,1011,1,01,1,2.B.1
-3776,farming fishing and forestry occupations,0,0,0,45-0000,45,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.B.2.i,1011,1,01,1,2.B.2
-3777,farming fishing and forestry occupations,0,0,0,45-0000,45,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.B.3.a,1011,1,01,1,2.B.3
-3778,farming fishing and forestry occupations,0,0,0,45-0000,45,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.B.4.e,1011,1,01,1,2.B.4
-3779,farming fishing and forestry occupations,0,0,0,45-0000,45,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.B.5.a,1011,1,01,1,2.B.5
-3857,construction and extraction occupations,1466,1466,0,47-0000,47,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,2.A.1.a,1011,1,01,1,2.A.1
-3858,construction and extraction occupations,1466,1466,0,47-0000,47,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,2.A.2.a,1011,1,01,1,2.A.2
-3859,construction and extraction occupations,1466,1466,0,47-0000,47,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,2.B.1.a,1011,1,01,1,2.B.1
-3860,construction and extraction occupations,1466,1466,0,47-0000,47,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,2.B.2.i,1011,1,01,1,2.B.2
-3861,construction and extraction occupations,1466,1466,0,47-0000,47,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,2.B.3.a,1011,1,01,1,2.B.3
-3862,construction and extraction occupations,1466,1466,0,47-0000,47,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,2.B.4.e,1011,1,01,1,2.B.4
-3863,construction and extraction occupations,1466,1466,0,47-0000,47,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,2.B.5.a,1011,1,01,1,2.B.5
-4284,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.A.1.a,1011,1,01,1,2.A.1
-4285,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.A.2.a,1011,1,01,1,2.A.2
-4286,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.1.a,1011,1,01,1,2.B.1
-4287,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.2.i,1011,1,01,1,2.B.2
-4288,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.3.a,1011,1,01,1,2.B.3
-4289,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.4.e,1011,1,01,1,2.B.4
-4290,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.5.a,1011,1,01,1,2.B.5
-4634,production occupations,1490,1183,307,51-0000,51,51-1011.00,First-Line Supervisors of Production and Operating Workers,2.A.1.a,1011,1,01,1,2.A.1
-4635,production occupations,1490,1183,307,51-0000,51,51-1011.00,First-Line Supervisors of Production and Operating Workers,2.A.2.a,1011,1,01,1,2.A.2
-4636,production occupations,1490,1183,307,51-0000,51,51-1011.00,First-Line Supervisors of Production and Operating Workers,2.B.1.a,1011,1,01,1,2.B.1
-4637,production occupations,1490,1183,307,51-0000,51,51-1011.00,First-Line Supervisors of Production and Operating Workers,2.B.2.i,1011,1,01,1,2.B.2
-4638,production occupations,1490,1183,307,51-0000,51,51-1011.00,First-Line Supervisors of Production and Operating Workers,2.B.3.a,1011,1,01,1,2.B.3
-4639,production occupations,1490,1183,307,51-0000,51,51-1011.00,First-Line Supervisors of Production and Operating Workers,2.B.4.e,1011,1,01,1,2.B.4
-4640,production occupations,1490,1183,307,51-0000,51,51-1011.00,First-Line Supervisors of Production and Operating Workers,2.B.5.a,1011,1,01,1,2.B.5
-5383,transportation occupations,1295,1295,0,53-0000,53,53-1041.00,Aircraft Cargo Handling Supervisors,2.A.1.a,1041,1,04,1,2.A.1
-5384,transportation occupations,1295,1295,0,53-0000,53,53-1041.00,Aircraft Cargo Handling Supervisors,2.A.2.a,1041,1,04,1,2.A.2
-5385,transportation occupations,1295,1295,0,53-0000,53,53-1041.00,Aircraft Cargo Handling Supervisors,2.B.1.a,1041,1,04,1,2.B.1
-5386,transportation occupations,1295,1295,0,53-0000,53,53-1041.00,Aircraft Cargo Handling Supervisors,2.B.2.i,1041,1,04,1,2.B.2
-5387,transportation occupations,1295,1295,0,53-0000,53,53-1041.00,Aircraft Cargo Handling Supervisors,2.B.3.a,1041,1,04,1,2.B.3
-5388,transportation occupations,1295,1295,0,53-0000,53,53-1041.00,Aircraft Cargo Handling Supervisors,2.B.4.e,1041,1,04,1,2.B.4
-5389,transportation occupations,1295,1295,0,53-0000,53,53-1041.00,Aircraft Cargo Handling Supervisors,2.B.5.a,1041,1,04,1,2.B.5
+,occupations_nor,Total,Male,Female,2010 SOC Code,Major_group,O*NET-SOC Code,Title,Element ID,Data Value,SOC_group,Minor_group,broad_occupation,detailed_occupation,Element_ID_group
+0,management occupations,2036,1107,929,11-0000,11,11-1011.03,Chief Sustainability Officers,2.A.1.a,4.0,1011,1,01,1,2.A.1
+1,management occupations,2036,1107,929,11-0000,11,11-1011.03,Chief Sustainability Officers,2.A.2.a,4.12,1011,1,01,1,2.A.2
+2,management occupations,2036,1107,929,11-0000,11,11-1011.03,Chief Sustainability Officers,2.B.1.a,3.88,1011,1,01,1,2.B.1
+3,management occupations,2036,1107,929,11-0000,11,11-1011.03,Chief Sustainability Officers,2.B.2.i,4.0,1011,1,01,1,2.B.2
+4,management occupations,2036,1107,929,11-0000,11,11-1011.03,Chief Sustainability Officers,2.B.3.a,2.88,1011,1,01,1,2.B.3
+5,management occupations,2036,1107,929,11-0000,11,11-1011.03,Chief Sustainability Officers,2.B.4.e,3.88,1011,1,01,1,2.B.4
+6,management occupations,2036,1107,929,11-0000,11,11-1011.03,Chief Sustainability Officers,2.B.5.a,3.38,1011,1,01,1,2.B.5
+42,business and financial operations occupations,1232,327,905,13-0000,13,13-1041.01,Environmental Compliance Inspectors,2.A.1.a,4.0,1041,1,04,1,2.A.1
+43,business and financial operations occupations,1232,327,905,13-0000,13,13-1041.01,Environmental Compliance Inspectors,2.A.2.a,4.0,1041,1,04,1,2.A.2
+44,business and financial operations occupations,1232,327,905,13-0000,13,13-1041.01,Environmental Compliance Inspectors,2.B.1.a,3.25,1041,1,04,1,2.B.1
+45,business and financial operations occupations,1232,327,905,13-0000,13,13-1041.01,Environmental Compliance Inspectors,2.B.2.i,3.75,1041,1,04,1,2.B.2
+46,business and financial operations occupations,1232,327,905,13-0000,13,13-1041.01,Environmental Compliance Inspectors,2.B.3.a,2.5,1041,1,04,1,2.B.3
+47,business and financial operations occupations,1232,327,905,13-0000,13,13-1041.01,Environmental Compliance Inspectors,2.B.4.e,3.38,1041,1,04,1,2.B.4
+48,business and financial operations occupations,1232,327,905,13-0000,13,13-1041.01,Environmental Compliance Inspectors,2.B.5.a,3.0,1041,1,04,1,2.B.5
+63,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1299.03,Document Management Specialists,2.A.1.a,3.88,1299,1,29,9,2.A.1
+64,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1299.03,Document Management Specialists,2.A.2.a,3.75,1299,1,29,9,2.A.2
+65,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1299.03,Document Management Specialists,2.B.1.a,3.0,1299,1,29,9,2.B.1
+66,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1299.03,Document Management Specialists,2.B.2.i,3.62,1299,1,29,9,2.B.2
+67,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1299.03,Document Management Specialists,2.B.3.a,2.25,1299,1,29,9,2.B.3
+68,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1299.03,Document Management Specialists,2.B.4.e,3.12,1299,1,29,9,2.B.4
+69,computer and mathematical occupations,1649,1136,513,15-0000,15,15-1299.03,Document Management Specialists,2.B.5.a,3.12,1299,1,29,9,2.B.5
+84,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.A.1.a,4.0,1011,1,01,1,2.A.1
+85,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.A.2.a,4.0,1011,1,01,1,2.A.2
+86,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.1.a,3.25,1011,1,01,1,2.B.1
+87,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.2.i,3.75,1011,1,01,1,2.B.2
+88,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.3.a,4.0,1011,1,01,1,2.B.3
+89,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.4.e,3.75,1011,1,01,1,2.B.4
+90,architecture and engineering occupations,649,512,137,17-0000,17,17-1011.00,"Architects, Except Landscape and Naval",2.B.5.a,3.0,1011,1,01,1,2.B.5
+119,life physical and social science occupations,578,433,145,19-0000,19,19-1013.00,Soil and Plant Scientists,2.A.1.a,4.0,1013,1,01,3,2.A.1
+120,life physical and social science occupations,578,433,145,19-0000,19,19-1013.00,Soil and Plant Scientists,2.A.2.a,4.0,1013,1,01,3,2.A.2
+121,life physical and social science occupations,578,433,145,19-0000,19,19-1013.00,Soil and Plant Scientists,2.B.1.a,3.0,1013,1,01,3,2.B.1
+122,life physical and social science occupations,578,433,145,19-0000,19,19-1013.00,Soil and Plant Scientists,2.B.2.i,3.88,1013,1,01,3,2.B.2
+123,life physical and social science occupations,578,433,145,19-0000,19,19-1013.00,Soil and Plant Scientists,2.B.3.a,3.0,1013,1,01,3,2.B.3
+124,life physical and social science occupations,578,433,145,19-0000,19,19-1013.00,Soil and Plant Scientists,2.B.4.e,3.75,1013,1,01,3,2.B.4
+125,life physical and social science occupations,578,433,145,19-0000,19,19-1013.00,Soil and Plant Scientists,2.B.5.a,2.88,1013,1,01,3,2.B.5
+182,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.A.1.a,4.0,1011,1,01,1,2.A.1
+183,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.A.2.a,4.12,1011,1,01,1,2.A.2
+184,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.1.a,4.12,1011,1,01,1,2.B.1
+185,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.2.i,3.5,1011,1,01,1,2.B.2
+186,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.3.a,2.0,1011,1,01,1,2.B.3
+187,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.4.e,3.88,1011,1,01,1,2.B.4
+188,community and social service occupations,616,148,468,21-0000,21,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,2.B.5.a,3.0,1011,1,01,1,2.B.5
+210,legal occupations,351,180,171,23-0000,23,23-1012.00,Judicial Law Clerks,2.A.1.a,4.5,1012,1,01,2,2.A.1
+211,legal occupations,351,180,171,23-0000,23,23-1012.00,Judicial Law Clerks,2.A.2.a,4.25,1012,1,01,2,2.A.2
+212,legal occupations,351,180,171,23-0000,23,23-1012.00,Judicial Law Clerks,2.B.1.a,3.0,1012,1,01,2,2.B.1
+213,legal occupations,351,180,171,23-0000,23,23-1012.00,Judicial Law Clerks,2.B.2.i,3.5,1012,1,01,2,2.B.2
+214,legal occupations,351,180,171,23-0000,23,23-1012.00,Judicial Law Clerks,2.B.3.a,1.25,1012,1,01,2,2.B.3
+215,legal occupations,351,180,171,23-0000,23,23-1012.00,Judicial Law Clerks,2.B.4.e,3.25,1012,1,01,2,2.B.4
+216,legal occupations,351,180,171,23-0000,23,23-1012.00,Judicial Law Clerks,2.B.5.a,3.25,1012,1,01,2,2.B.5
+217,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1027.00,Set and Exhibit Designers,2.A.1.a,3.88,1027,1,02,7,2.A.1
+218,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1027.00,Set and Exhibit Designers,2.A.2.a,3.75,1027,1,02,7,2.A.2
+219,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1027.00,Set and Exhibit Designers,2.B.1.a,3.0,1027,1,02,7,2.B.1
+220,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1027.00,Set and Exhibit Designers,2.B.2.i,3.38,1027,1,02,7,2.B.2
+221,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1027.00,Set and Exhibit Designers,2.B.3.a,3.75,1027,1,02,7,2.B.3
+222,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1027.00,Set and Exhibit Designers,2.B.4.e,3.38,1027,1,02,7,2.B.4
+223,arts design entertainment sports and media occupations,299,172,127,27-0000,27,27-1027.00,Set and Exhibit Designers,2.B.5.a,3.75,1027,1,02,7,2.B.5
+245,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1031.00,Dietitians and Nutritionists,2.A.1.a,4.0,1031,1,03,1,2.A.1
+246,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1031.00,Dietitians and Nutritionists,2.A.2.a,4.0,1031,1,03,1,2.A.2
+247,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1031.00,Dietitians and Nutritionists,2.B.1.a,4.0,1031,1,03,1,2.B.1
+248,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1031.00,Dietitians and Nutritionists,2.B.2.i,3.88,1031,1,03,1,2.B.2
+249,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1031.00,Dietitians and Nutritionists,2.B.3.a,3.12,1031,1,03,1,2.B.3
+250,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1031.00,Dietitians and Nutritionists,2.B.4.e,4.0,1031,1,03,1,2.B.4
+251,healthcare practitioners and technical occupations,1899,449,1450,29-0000,29,29-1031.00,Dietitians and Nutritionists,2.B.5.a,3.25,1031,1,03,1,2.B.5
+427,healthcare support occupations,627,154,473,31-0000,31,31-9011.00,Massage Therapists,2.A.1.a,3.0,9011,9,01,1,2.A.1
+428,healthcare support occupations,627,154,473,31-0000,31,31-9011.00,Massage Therapists,2.A.2.a,3.0,9011,9,01,1,2.A.2
+429,healthcare support occupations,627,154,473,31-0000,31,31-9011.00,Massage Therapists,2.B.1.a,3.25,9011,9,01,1,2.B.1
+430,healthcare support occupations,627,154,473,31-0000,31,31-9011.00,Massage Therapists,2.B.2.i,3.0,9011,9,01,1,2.B.2
+431,healthcare support occupations,627,154,473,31-0000,31,31-9011.00,Massage Therapists,2.B.3.a,1.62,9011,9,01,1,2.B.3
+432,healthcare support occupations,627,154,473,31-0000,31,31-9011.00,Massage Therapists,2.B.4.e,3.12,9011,9,01,1,2.B.4
+433,healthcare support occupations,627,154,473,31-0000,31,31-9011.00,Massage Therapists,2.B.5.a,2.88,9011,9,01,1,2.B.5
+455,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.A.1.a,3.12,1011,1,01,1,2.A.1
+456,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.A.2.a,3.75,1011,1,01,1,2.A.2
+457,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.1.a,3.62,1011,1,01,1,2.B.1
+458,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.2.i,3.25,1011,1,01,1,2.B.2
+459,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.3.a,2.5,1011,1,01,1,2.B.3
+460,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.4.e,3.62,1011,1,01,1,2.B.4
+461,food preparation and serving related occupations,865,471,394,35-0000,35,35-1011.00,Chefs and Head Cooks,2.B.5.a,3.88,1011,1,01,1,2.B.5
+476,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2.A.1.a,3.12,1012,1,01,2,2.A.1
+477,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2.A.2.a,3.75,1012,1,01,2,2.A.2
+478,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2.B.1.a,3.25,1012,1,01,2,2.B.1
+479,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2.B.2.i,3.12,1012,1,01,2,2.B.2
+480,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2.B.3.a,2.12,1012,1,01,2,2.B.3
+481,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2.B.4.e,3.25,1012,1,01,2,2.B.4
+482,building and grounds cleaning and maintenance occupations,1142,817,325,37-0000,37,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2.B.5.a,4.0,1012,1,01,2,2.B.5
+483,personal care and service occupations,300,39,261,39-0000,39,39-4011.00,Embalmers,2.A.1.a,3.0,4011,4,01,1,2.A.1
+484,personal care and service occupations,300,39,261,39-0000,39,39-4011.00,Embalmers,2.A.2.a,3.12,4011,4,01,1,2.A.2
+485,personal care and service occupations,300,39,261,39-0000,39,39-4011.00,Embalmers,2.B.1.a,3.12,4011,4,01,1,2.B.1
+486,personal care and service occupations,300,39,261,39-0000,39,39-4011.00,Embalmers,2.B.2.i,2.88,4011,4,01,1,2.B.2
+487,personal care and service occupations,300,39,261,39-0000,39,39-4011.00,Embalmers,2.B.3.a,2.0,4011,4,01,1,2.B.3
+488,personal care and service occupations,300,39,261,39-0000,39,39-4011.00,Embalmers,2.B.4.e,3.0,4011,4,01,1,2.B.4
+489,personal care and service occupations,300,39,261,39-0000,39,39-4011.00,Embalmers,2.B.5.a,3.12,4011,4,01,1,2.B.5
+497,sales and related occupations,2188,1184,1004,41-0000,41,41-9012.00,Models,2.A.1.a,2.5,9012,9,01,2,2.A.1
+498,sales and related occupations,2188,1184,1004,41-0000,41,41-9012.00,Models,2.A.2.a,2.62,9012,9,01,2,2.A.2
+499,sales and related occupations,2188,1184,1004,41-0000,41,41-9012.00,Models,2.B.1.a,2.88,9012,9,01,2,2.B.1
+500,sales and related occupations,2188,1184,1004,41-0000,41,41-9012.00,Models,2.B.2.i,1.88,9012,9,01,2,2.B.2
+501,sales and related occupations,2188,1184,1004,41-0000,41,41-9012.00,Models,2.B.3.a,1.38,9012,9,01,2,2.B.3
+502,sales and related occupations,2188,1184,1004,41-0000,41,41-9012.00,Models,2.B.4.e,2.12,9012,9,01,2,2.B.4
+503,sales and related occupations,2188,1184,1004,41-0000,41,41-9012.00,Models,2.B.5.a,2.5,9012,9,01,2,2.B.5
+504,office and administrative support occupations,3468,1175,2293,43-0000,43,43-4111.00,"Interviewers, Except Eligibility and Loan",2.A.1.a,3.5,4111,4,11,1,2.A.1
+505,office and administrative support occupations,3468,1175,2293,43-0000,43,43-4111.00,"Interviewers, Except Eligibility and Loan",2.A.2.a,3.25,4111,4,11,1,2.A.2
+506,office and administrative support occupations,3468,1175,2293,43-0000,43,43-4111.00,"Interviewers, Except Eligibility and Loan",2.B.1.a,3.38,4111,4,11,1,2.B.1
+507,office and administrative support occupations,3468,1175,2293,43-0000,43,43-4111.00,"Interviewers, Except Eligibility and Loan",2.B.2.i,3.12,4111,4,11,1,2.B.2
+508,office and administrative support occupations,3468,1175,2293,43-0000,43,43-4111.00,"Interviewers, Except Eligibility and Loan",2.B.3.a,1.88,4111,4,11,1,2.B.3
+509,office and administrative support occupations,3468,1175,2293,43-0000,43,43-4111.00,"Interviewers, Except Eligibility and Loan",2.B.4.e,2.62,4111,4,11,1,2.B.4
+510,office and administrative support occupations,3468,1175,2293,43-0000,43,43-4111.00,"Interviewers, Except Eligibility and Loan",2.B.5.a,3.25,4111,4,11,1,2.B.5
+539,construction and extraction occupations,1466,1466,0,47-0000,47,47-2043.00,Floor Sanders and Finishers,2.A.1.a,2.62,2043,2,04,3,2.A.1
+540,construction and extraction occupations,1466,1466,0,47-0000,47,47-2043.00,Floor Sanders and Finishers,2.A.2.a,2.75,2043,2,04,3,2.A.2
+541,construction and extraction occupations,1466,1466,0,47-0000,47,47-2043.00,Floor Sanders and Finishers,2.B.1.a,2.38,2043,2,04,3,2.B.1
+542,construction and extraction occupations,1466,1466,0,47-0000,47,47-2043.00,Floor Sanders and Finishers,2.B.2.i,2.75,2043,2,04,3,2.B.2
+543,construction and extraction occupations,1466,1466,0,47-0000,47,47-2043.00,Floor Sanders and Finishers,2.B.3.a,1.38,2043,2,04,3,2.B.3
+544,construction and extraction occupations,1466,1466,0,47-0000,47,47-2043.00,Floor Sanders and Finishers,2.B.4.e,2.62,2043,2,04,3,2.B.4
+545,construction and extraction occupations,1466,1466,0,47-0000,47,47-2043.00,Floor Sanders and Finishers,2.B.5.a,2.88,2043,2,04,3,2.B.5
+546,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.A.1.a,3.62,1011,1,01,1,2.A.1
+547,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.A.2.a,3.75,1011,1,01,1,2.A.2
+548,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.1.a,3.12,1011,1,01,1,2.B.1
+549,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.2.i,3.12,1011,1,01,1,2.B.2
+550,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.3.a,2.5,1011,1,01,1,2.B.3
+551,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.4.e,3.75,1011,1,01,1,2.B.4
+552,installation maintenance and repair occupations,1054,1054,0,49-0000,49,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",2.B.5.a,3.75,1011,1,01,1,2.B.5
+602,production occupations,1490,1183,307,51-0000,51,51-3092.00,Food Batchmakers,2.A.1.a,3.12,3092,3,09,2,2.A.1
+603,production occupations,1490,1183,307,51-0000,51,51-3092.00,Food Batchmakers,2.A.2.a,3.12,3092,3,09,2,2.A.2
+604,production occupations,1490,1183,307,51-0000,51,51-3092.00,Food Batchmakers,2.B.1.a,2.75,3092,3,09,2,2.B.1
+605,production occupations,1490,1183,307,51-0000,51,51-3092.00,Food Batchmakers,2.B.2.i,2.88,3092,3,09,2,2.B.2
+606,production occupations,1490,1183,307,51-0000,51,51-3092.00,Food Batchmakers,2.B.3.a,1.88,3092,3,09,2,2.B.3
+607,production occupations,1490,1183,307,51-0000,51,51-3092.00,Food Batchmakers,2.B.4.e,2.88,3092,3,09,2,2.B.4
+608,production occupations,1490,1183,307,51-0000,51,51-3092.00,Food Batchmakers,2.B.5.a,2.75,3092,3,09,2,2.B.5
+637,transportation occupations,1295,1295,0,53-0000,53,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",2.A.1.a,3.88,2011,2,01,1,2.A.1
+638,transportation occupations,1295,1295,0,53-0000,53,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",2.A.2.a,4.12,2011,2,01,1,2.A.2
+639,transportation occupations,1295,1295,0,53-0000,53,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",2.B.1.a,3.25,2011,2,01,1,2.B.1
+640,transportation occupations,1295,1295,0,53-0000,53,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",2.B.2.i,3.62,2011,2,01,1,2.B.2
+641,transportation occupations,1295,1295,0,53-0000,53,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",2.B.3.a,2.12,2011,2,01,1,2.B.3
+642,transportation occupations,1295,1295,0,53-0000,53,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",2.B.4.e,4.0,2011,2,01,1,2.B.4
+643,transportation occupations,1295,1295,0,53-0000,53,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",2.B.5.a,3.88,2011,2,01,1,2.B.5
