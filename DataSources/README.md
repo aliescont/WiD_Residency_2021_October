@@ -10,3 +10,4 @@
 #### 5. Long-Term_Occupational_Employment_Projections.csv - Obtained from: https://data.edd.ca.gov/Employment-Projections/Long-Term-Occupational-Employment-Projections/4yzm-uyfq
 #### 6. Education_Training_and_Experience.xlsx - Using [Standard Occupation Classification](https://www.bls.gov/soc/) notation, this file provides education, training, and experience data for occupations - Obtained from: https://www.onetcenter.org/database.html#ete
 #### &emsp; Education_Training_and_Experience_Categories.xlsx - Obtained from: https://www.onetcenter.org/database.html#ete
+#### 7. ACS_5Y_RConly_11.30.2021.dta - American Community Survey  
