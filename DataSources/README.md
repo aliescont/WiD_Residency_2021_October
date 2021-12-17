@@ -11,3 +11,7 @@
 #### 6. Education_Training_and_Experience.xlsx - Using [Standard Occupation Classification](https://www.bls.gov/soc/) notation, this file provides education, training, and experience data for occupations - Obtained from: https://www.onetcenter.org/database.html#ete
 #### &emsp; Education_Training_and_Experience_Categories.xlsx - Obtained from: https://www.onetcenter.org/database.html#ete
 #### 7. ACS_5Y_RConly_11.30.2021.dta - American Community Survey  
+#### 8. 2019 ACS 1-Year Estimate for Rancho Cordova, employment numbers by by SOCP (occupation) - Obtained from https://data.census.gov/mdat/#/search?ds=ACSPUMS1Y2019&rv=SOCP&nv=ucgid&wt=PWGTP&g=7950000US0606702
+#### 9. O*NET Skills, mapping of O*NET-SOC codes (occupations) to Skill ratings - Obtained from https://www.onetcenter.org/dictionary/26.1/excel/skills.html
+#### 10. O*NET Occupation, providing O*NET-SOC codes, titles, and descriptions - Obtained from https://www.onetcenter.org/dictionary/26.1/excel/occupation_data.html
+#### 11. O*NET Skill Definitions by Category - Obtained from https://www.onetcenter.org/dl_files/AOSkills_ProcUpdate.pdf (Appendix A)
